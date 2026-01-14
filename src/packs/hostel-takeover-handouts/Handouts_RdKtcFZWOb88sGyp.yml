@@ -1,0 +1,325 @@
+name: Handouts
+pages:
+  - name: Threat Card - Demon, Minor
+    type: image
+    src: modules/te003-hostel-takeover/threat-cards/demon-minor-threat-card.webp
+    title:
+      show: false
+      level: 1
+    _id: 7Mw5flNQTV18dsMh
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    system: {}
+    sort: 100000
+    ownership:
+      default: -1
+    flags:
+      core: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1689442753379
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-journals.3xyUz99TWKyeCMhE.JournalEntryPage.7Mw5flNQTV18dsMh
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.7Mw5flNQTV18dsMh'
+  - name: Threat Card - Cyberpriest
+    type: image
+    src: modules/te003-hostel-takeover/threat-cards/cyberpriest-threat-card.webp
+    title:
+      show: false
+      level: 1
+    _id: syiknQzRmjnlUZnC
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    system: {}
+    sort: 50000
+    ownership:
+      default: -1
+    flags:
+      core: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1689442738827
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-journals.PcvkYlBJw98XkQcx.JournalEntryPage.syiknQzRmjnlUZnC
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.syiknQzRmjnlUZnC'
+  - name: Threat Card - Church Police Streetbeater
+    type: image
+    src: >-
+      modules/te003-hostel-takeover/threat-cards/church-police-streetbeater-threat-card.webp
+    title:
+      show: false
+      level: 1
+    _id: ITG2LWV7dxbOA15r
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    system: {}
+    sort: 0
+    ownership:
+      default: -1
+    flags:
+      core: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1689442725099
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-journals.8phjdm3x4vCXcvvG.JournalEntryPage.ITG2LWV7dxbOA15r
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.ITG2LWV7dxbOA15r'
+  - sort: -100000
+    name: Dark Omens
+    type: image
+    _id: yMYKSGz8kxOv0spz
+    title:
+      show: true
+      level: 1
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    src: modules/te003-hostel-takeover/images/cover.webp
+    system: {}
+    ownership:
+      default: -1
+      Pr8rQ7apcvpAcdr7: 3
+    flags: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689442775672
+      modifiedTime: 1689442789965
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.yMYKSGz8kxOv0spz'
+  - sort: 75000
+    name: Zapar-Agentalus, Minor Demon
+    type: image
+    _id: UFu6s2S3jb869BFY
+    title:
+      show: true
+      level: 1
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    src: modules/te003-hostel-takeover/character-images/zapar_agentalus.webp
+    system: {}
+    ownership:
+      default: -1
+      Pr8rQ7apcvpAcdr7: 3
+    flags: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689442827529
+      modifiedTime: 1689444222383
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.UFu6s2S3jb869BFY'
+  - sort: -12500
+    name: Church Police Streetbeater
+    type: image
+    title:
+      show: true
+      level: 1
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    src: >-
+      modules/te003-hostel-takeover/character-images/church-police-streetbeater-large.webp
+    system: {}
+    ownership:
+      default: -1
+      Pr8rQ7apcvpAcdr7: 3
+    flags: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689442827529
+      modifiedTime: 1689444215983
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _id: hRzsmMvTAzcmqmOr
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.hRzsmMvTAzcmqmOr'
+  - sort: 25000
+    name: Cyberpriest
+    type: image
+    title:
+      show: true
+      level: 1
+    image:
+      caption: ''
+    text:
+      format: 1
+    video:
+      controls: true
+      volume: 0.5
+    src: modules/te003-hostel-takeover/character-images/cyberpriest-large.webp
+    system: {}
+    ownership:
+      default: -1
+      Pr8rQ7apcvpAcdr7: 3
+    flags: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689442827529
+      modifiedTime: 1689444220823
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _id: DESbNRLK0ivA9uIM
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.DESbNRLK0ivA9uIM'
+  - name: Keyed Map of First Floor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <p><img src="modules/te003-hostel-takeover/images/first-floor.webp"
+        width="600" height="394" /></p>
+    _id: e8VhfeZUZAACfSy0
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: -50000
+    ownership:
+      default: -1
+      Pr8rQ7apcvpAcdr7: 3
+    flags:
+      core: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689444187216
+      modifiedTime: 1689444209692
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-journals.wVsGTkvkltbiAhg2.JournalEntryPage.e8VhfeZUZAACfSy0
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.e8VhfeZUZAACfSy0'
+  - name: Keyed Map of Second Floor
+    type: text
+    title:
+      show: false
+      level: 1
+    text:
+      format: 1
+      content: >-
+        <img src="modules/te003-hostel-takeover/images/second-floor.webp"
+        width="600" height="395" />
+    _id: AVndqpKje8IEHLVg
+    image: {}
+    video:
+      controls: true
+      volume: 0.5
+    src: null
+    system: {}
+    sort: -25000
+    ownership:
+      default: -1
+      Pr8rQ7apcvpAcdr7: 3
+    flags:
+      core: {}
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689444189231
+      modifiedTime: 1689444211727
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-journals.yMJc3xsBYtEI0SfW.JournalEntryPage.AVndqpKje8IEHLVg
+      duplicateSource: null
+      exportSource: null
+    category: null
+    _key: '!journal.pages!RdKtcFZWOb88sGyp.AVndqpKje8IEHLVg'
+flags:
+  core: {}
+_stats:
+  systemId: torgeternity
+  systemVersion: 2.9.3
+  coreVersion: '13.351'
+  createdTime: 1663758471120
+  modifiedTime: 1689444921480
+  lastModifiedBy: Pr8rQ7apcvpAcdr7
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+folder: null
+ownership:
+  default: 0
+  4kr6bmxq7tmWuB59: 3
+  Pr8rQ7apcvpAcdr7: 3
+_id: RdKtcFZWOb88sGyp
+sort: 0
+categories: []
+_key: '!journal!RdKtcFZWOb88sGyp'
+

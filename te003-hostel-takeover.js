@@ -8,37 +8,34 @@ Hooks.once("init", async function() {
 
 })
 Hooks.on("ready", async function() {
-
-
     //----rendering welcome message
 
-    let welcomeMessage = await renderTemplate("modules/te003-hostel-takeover/welcomeMessage.hbs");
+    let welcomeMessage = await foundry.applications.handlebars.renderTemplate("modules/te003-hostel-takeover/welcomeMessage.hbs");
 
     if (game.settings.get("te003-hostel-takeover", "welcomeMessage") == true) {
-        let d = new Dialog({
+        let d = new foundry.applications.api.DialogV2({
             title: "Welcome to the Hostel Takeover Adventure Module!",
             content: welcomeMessage,
-            buttons: {
-                one: {
-                    icon: '<i class="fas fa-check"></i>',
-                    label: "OK",
+            buttons: [
+                {
+                  action: "ok",
+                  icon: '<i class="fas fa-check"></i>',
+                  label: "OK",
                 },
-                two: {
-                    icon: '<i class="fas fa-ban"></i>',
-                    label: "Don't show again",
-                    callback: () =>
-                        game.settings.set("te003-hostel-takeover", "welcomeMessage", false),
+                {
+                  action: "hide",
+                  icon: '<i class="fas fa-ban"></i>',
+                  label: "Don't show again",
+                  callback: () =>
+                    game.settings.set("te003-hostel-takeover", "welcomeMessage", false),
                 },
-            },
-        }, {
-            left: 100,
-            top: 100,
-            height: 425,
-            width: 450,
-            resizable: false
+            ],
+            position: {
+              left: 100,
+              top: 100,
+              width: 450
+            }
         });
         d.render(true);
     }
-
-
 })

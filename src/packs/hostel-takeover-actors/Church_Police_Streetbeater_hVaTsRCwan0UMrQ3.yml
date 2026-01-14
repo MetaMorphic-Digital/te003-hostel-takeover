@@ -1,0 +1,630 @@
+_id: hVaTsRCwan0UMrQ3
+name: Church Police Streetbeater
+type: threat
+sort: 100001
+flags: {}
+img: >-
+  modules/te003-hostel-takeover/character-images/Church_Police_Streetbeater.Avatar.webp
+items:
+  - _id: LyJtg2cKxmlJWuHf
+    name: Riot Stick
+    type: meleeweapon
+    img: systems/torgeternity/images/icons/axe-icon.webp
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core: {}
+    system:
+      cosm: Cyberpapacy
+      description: >-
+        <p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#non-lethal-damage]{Non-Lethal}</p>
+
+        <p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#painful:]{Painful}</p>
+
+        <p>A heavy metallic club used for crowd suppression within the
+        Cyberpapacy. When activated the tip pulses with powerful electric shocks
+        which can be set to lethal or non-lethal. If not activated treat as a
+        mace.</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      price: '150'
+      techlevel: 26
+      value: 11
+      ap: 0
+      attackWith: meleeWeapons
+      bonus: 2
+      chatNote: ''
+      damage: 3
+      damageType: strengthPlus
+      equipped: false
+      equippedClass: .item-unequipped
+      notes: Non-lethal, Painful
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      Pr8rQ7apcvpAcdr7: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 3.6.0
+      coreVersion: '13.351'
+      createdTime: 1689445531074
+      modifiedTime: 1711012966941
+      lastModifiedBy: CtisFurQNe9h7ABb
+      compendiumSource: Compendium.te001-core-rulebook.Items.9FP2bpghzfeVmMkG
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!hVaTsRCwan0UMrQ3.LyJtg2cKxmlJWuHf'
+  - _id: nu1KKmLu10wLXcb2
+    name: GWI GodMeeter
+    type: firearm
+    img: systems/torgeternity/images/icons/firearm-icon.webp
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core: {}
+    system:
+      cosm: Cyberpapacy
+      description: >-
+        <p>The most common sidearm in use by the Church Police. It’s a high
+        caliber and very loud firearm. Like other GWI weapons it has a limited
+        artificial intelligence built in—not to assist with firing but to
+        disable functions and preach at miscreants if the weapon falls into the
+        wrong hands. The gun is also capable of selecting between different
+        types of ammunition by vocal command if more than one type is
+        loaded.</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      price: '450'
+      techlevel: 26
+      value: 13
+      ammo:
+        max: 25
+        value: 25
+      ap: 0
+      attackWith: fireCombat
+      chatNote: ''
+      damage: 15
+      damageType: flat
+      equipped: false
+      equippedClass: .item-unequipped
+      notes: ''
+      range: 10 / 25 / 40
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      Pr8rQ7apcvpAcdr7: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 3.6.0
+      coreVersion: '13.351'
+      createdTime: 1689445544802
+      modifiedTime: 1711012966941
+      lastModifiedBy: CtisFurQNe9h7ABb
+      compendiumSource: Compendium.te001-core-rulebook.Items.pBPp45py3ynKoMI1
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!hVaTsRCwan0UMrQ3.nu1KKmLu10wLXcb2'
+  - _id: VGxdzNsMc2kBp5v4
+    name: GWI Armor of God
+    type: armor
+    img: systems/torgeternity/images/icons/armor-icon.webp
+    effects: []
+    folder: null
+    sort: 34600000
+    flags:
+      core: {}
+    system:
+      cosm: Cyberpapacy
+      description: >-
+        <p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#fatigues:]{Fatigues}</p>
+
+        <p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#full-body/torso:]{Full
+        Body Armor}</p>
+
+        <p>Made with thick but lightweight sheets of HardPlas, a synthetic
+        material with very high tensile strength. As the primary armor of all
+        Church Police very limited quantities are legitimately for sale, but a
+        thriving black market operates around re-purposed suits plundered from
+        fallen Streetbeaters.</p>
+
+        <p>updated in Cyberpapacy Sourcebook</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules, Cyberpapacy Sourcebook</strong></p>
+      price: '1000'
+      techlevel: 26
+      value: 15
+      bonus: 4
+      equipped: true
+      equippedClass: item-equipped
+      maxDex: 8
+      minStrength: null
+      notes: Fatigues, Full Body
+      fatigue: 1
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      GJLkrWXIPZRbEU79: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 3.7.3
+      coreVersion: '13.351'
+      createdTime: 1711551146835
+      modifiedTime: 1716104352655
+      lastModifiedBy: GJLkrWXIPZRbEU79
+      compendiumSource: Compendium.te001-core-rulebook.Items.Item.cWKqmCr7HWyz5njU
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!hVaTsRCwan0UMrQ3.VGxdzNsMc2kBp5v4'
+effects: []
+system:
+  attributes:
+    charisma: 7
+    dexterity: 8
+    mind: 7
+    spirit: 7
+    strength: 8
+  other:
+    armor: 8
+    cosm: Cyberpapacy
+    move: 8
+    possibilities: 0
+    run: 24
+    toughness: 16
+  shock:
+    max: 7
+    value: 0
+  skills:
+    airVehicles:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    alteration:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    apportation:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    beastRiding:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    computers:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    conjuration:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    divination:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    dodge:
+      adds: '1'
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    energyWeapons:
+      adds: '1'
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    evidenceAnalysis:
+      adds: '2'
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    faith:
+      adds: '3'
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 10
+    find:
+      adds: '2'
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    fireCombat:
+      adds: '2'
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 10
+    firstAid:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    heavyWeapons:
+      adds: '1'
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    intimidation:
+      adds: '3'
+      baseAttribute: spirit
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 10
+      defenseOnly: 'true'
+    kinesis:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    landVehicles:
+      adds: '1'
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    language:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    lockpicking:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    maneuver:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+      defenseOnly: 'true'
+    medicine:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    meleeWeapons:
+      adds: '1'
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+    missileWeapons:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    persuasion:
+      adds: ''
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    precognition:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    profession:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    reality:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    scholar:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    science:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    stealth:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    streetwise:
+      adds: ''
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    survival:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    taunt:
+      adds: '1'
+      baseAttribute: charisma
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 8
+      defenseOnly: 'true'
+    telepathy:
+      adds: ''
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    tracking:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    trick:
+      adds: '2'
+      baseAttribute: mind
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 9
+      defenseOnly: 'true'
+    unarmedCombat:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    waterVehicles:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    willpower:
+      adds: '1'
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 8
+  wounds:
+    max: 0
+    value: 0
+  details:
+    description: >-
+      <p
+      class="moreheight">@UUID[Compendium.te003-hostel-takeover.hostel-takeover-handouts.JournalEntry.RdKtcFZWOb88sGyp.JournalEntryPage.hRzsmMvTAzcmqmOr]{Church
+      Police Streetbeater}</p>
+
+      <p
+      class="moreheight">@UUID[Compendium.te003-hostel-takeover.hostel-takeover-handouts.JournalEntry.RdKtcFZWOb88sGyp.JournalEntryPage.ITG2LWV7dxbOA15r]{Threat
+      Card - Church Police Streetbeater}</p>
+
+      <p>The Cyberpapacy&rsquo;s police forces can be found on most every corner
+      in the major cities. They are trained in basic detection, crowd control,
+      and of course, combat. Streetbeaters are equipped with audiovisual
+      recording equipment in their helmets connected to the GodNet. They
+      aren&rsquo;t given cyberware or other enhancements - those are saved for
+      the more elite CAT teams.</p>
+    possibilitypotential: Rare (2)
+    sizeBonus: normal
+    clearance: alpha
+  editstate: none
+  possibilities: null
+ownership:
+  default: 0
+  A9LyAqagoJJU3gDH: 3
+prototypeToken:
+  flags: {}
+  name: Church Police Streetbeater
+  displayName: 30
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 30
+  bar1:
+    attribute: wounds
+  bar2:
+    attribute: shock
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    color: null
+    alpha: 1
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+    negative: false
+    priority: 0
+  texture:
+    src: >-
+      modules/te003-hostel-takeover/character-images/Church_Police_Streetbeater.Token.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  alpha: 1
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+folder: null
+_stats:
+  systemId: torgeternity
+  systemVersion: 3.7.3
+  coreVersion: '13.351'
+  createdTime: 1689445500826
+  modifiedTime: 1716104352655
+  lastModifiedBy: GJLkrWXIPZRbEU79
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!actors!hVaTsRCwan0UMrQ3'
+

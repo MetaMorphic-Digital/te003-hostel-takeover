@@ -1,0 +1,985 @@
+_id: SIIAZ1ZFvOSGEiUG
+name: Zapar-Agentalus
+type: threat
+sort: 100001
+flags: {}
+img: modules/te003-hostel-takeover/character-images/Zapar_Agentalus.Avatar.webp
+items:
+  - _id: zdeZQJgUt3BQGy0t
+    name: Armor
+    type: specialability
+    sort: 700001
+    flags: {}
+    img: systems/torgeternity/images/icons/torgeternity-icon.webp
+    effects: []
+    system:
+      description: <p>Protective ooze +2</p>
+    folder: null
+    ownership:
+      default: 0
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1689444985823
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.zdeZQJgUt3BQGy0t'
+  - _id: 0Tb0o8sZSVLGlwGo
+    name: HTH Attack
+    type: customAttack
+    sort: 500001
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/melee-weapon-icon.webp
+    effects: []
+    system:
+      ap: 0
+      attackWith: unarmedCombat
+      chatNote: ''
+      damage: 0
+      damageType: strengthPlus
+      description: null
+      notes: ''
+    folder: null
+    ownership:
+      default: 0
+    _stats:
+      systemId: torgeternity
+      systemVersion: 3.6.0
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1711012966925
+      lastModifiedBy: CtisFurQNe9h7ABb
+      compendiumSource: Item.ewfPYWfFRJSZ1FOs
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.0Tb0o8sZSVLGlwGo'
+  - _id: J7ibpnjaQuirjVQm
+    name: HTH Attack
+    type: customAttack
+    sort: 500001
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/melee-weapon-icon.webp
+    effects: []
+    system:
+      ap: 0
+      attackWith: unarmedCombat
+      chatNote: ''
+      damage: 0
+      damageType: strengthPlus
+      description: null
+      notes: ''
+    folder: null
+    ownership:
+      default: 0
+    _stats:
+      systemId: torgeternity
+      systemVersion: 3.6.0
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1711012966925
+      lastModifiedBy: CtisFurQNe9h7ABb
+      compendiumSource: Item.ewfPYWfFRJSZ1FOs
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.J7ibpnjaQuirjVQm'
+  - _id: huuUiOe8ubQzn6Q7
+    name: Dread
+    type: specialability
+    sort: 800001
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/torgeternity-icon.webp
+    effects: []
+    system:
+      description: >-
+        <p>While a demon is present, a Standard Scene becomes a Dramatic Scene
+        instead.</p>
+    folder: null
+    ownership:
+      default: 0
+      4kr6bmxq7tmWuB59: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.6.8
+      coreVersion: '13.351'
+      createdTime: 1664132159737
+      modifiedTime: 1664132159737
+      lastModifiedBy: 4kr6bmxq7tmWuB59
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-actors.S82VsjSY7Oh3ZLzO.Item.tenkMkij9UAkAQFY
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.huuUiOe8ubQzn6Q7'
+  - _id: BwgNW1HJhJiIY9nr
+    name: Fear
+    type: specialability
+    sort: 900001
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/torgeternity-icon.webp
+    effects: []
+    system:
+      description: >-
+        <p>Once the demon leaves Constance and reveals its true form all Storm
+        Knights must test <em>willpower</em> or <em>Spirit</em> or become Very
+        Stymied.</p>
+    folder: null
+    ownership:
+      default: 0
+      4kr6bmxq7tmWuB59: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.6.8
+      coreVersion: '13.351'
+      createdTime: 1664132161377
+      modifiedTime: 1664132161377
+      lastModifiedBy: 4kr6bmxq7tmWuB59
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-actors.S82VsjSY7Oh3ZLzO.Item.te0wS8wp0EQePAmT
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.BwgNW1HJhJiIY9nr'
+  - _id: 61GLvrZPBUN1svwH
+    name: Insidious
+    type: specialability
+    sort: 1000001
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/torgeternity-icon.webp
+    effects: []
+    system:
+      description: >-
+        <p>Discard a Destiny card from each target’s Action Pool when the demon
+        successfully performs an Approved Action.</p>
+    folder: null
+    ownership:
+      default: 0
+      4kr6bmxq7tmWuB59: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.6.8
+      coreVersion: '13.351'
+      createdTime: 1664132162992
+      modifiedTime: 1664132162992
+      lastModifiedBy: 4kr6bmxq7tmWuB59
+      compendiumSource: >-
+        Compendium.te003-hostel-takeover.hostel-takeover-actors.S82VsjSY7Oh3ZLzO.Item.te5VYaz0n12sw6d5
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.61GLvrZPBUN1svwH'
+  - _id: bCcrVGIq9MeunGGj
+    name: Possession
+    type: specialability-rollable
+    img: systems/torgeternity/images/icons/bite-icon.webp
+    effects: []
+    folder: null
+    sort: 300001
+    flags:
+      core: {}
+    system:
+      description: >-
+        <p>At first the demon fights from within Constance&rsquo;s body. Once
+        the host body suffers enough Shock or Wounds to be KO&rsquo;ed,
+        Zapar-Agentalus must emerge, usually from the target&rsquo;s mouth like
+        a long stream of vomit. This triggers the demon&rsquo;s Fear ability. If
+        Pascale is in the room the demon leaps into him next. Doing so requires
+        its action, but restores all its lost Shock. It can only possess Ords,
+        and can&rsquo;t possess Agnes due to her faith, her cyberware, or
+        perhaps both.</p>
+      attackWith: willpower
+      damage: null
+      ap: 0
+      chatNote: ''
+    ownership:
+      default: 0
+      ZuS1Anc9ORZov40T: 3
+      4kr6bmxq7tmWuB59: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1664131796818
+      modifiedTime: 1689445032114
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Actor.JLVNfaFx2B2A1O6A.Item.CQu6gRCaFAi8T176
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.bCcrVGIq9MeunGGj'
+  - _id: qmWxv0zsqLPJ3UZs
+    name: Disguise
+    type: spell
+    img: systems/torgeternity/images/icons/spell-icon.webp
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core: {}
+    system:
+      axiom: 12
+      skill: alteration
+      skilllevel: 12
+      castingtime: 1 action
+      dnType: ''
+      dn: standard
+      targetDefense: ''
+      modifier: null
+      range: Touch
+      duration: 10 minutes
+      description: >-
+        <p>This spell may only be cast once per day.</p>
+
+        <p><em>Disguise</em> gives a caster (or an ally if desired) the physical
+        appearance of another, including clothing, weapons, and other normal
+        accessories. Items created as part of the disguise are useless beyond
+        looking the part.</p>
+
+        <p>The <em>disguise</em> may copy a specific person if the caster has
+        seen him or her (or a high-quality painting or photo). <em>Disguise</em>
+        only covers the physical appearance of the target&mdash;interaction may
+        still require <em>persuasion</em> tests or the like.</p>
+
+        <p>The disguised individual stays the same mass, but can appear as a
+        different gender, ethnicity, or even race (such as an elf or a dwarf).
+        Once the spell is cast the mage no longer needs to be within range to
+        maintain it.</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      good: The Duration is increased to the rest of the scene
+      outstanding: >-
+        The disguise mimics the target’s voice as well. It doesn’t grant the
+        target new languages, however!
+      isAttack: 'false'
+      damage: null
+      ap: 0
+      applySize: 'false'
+      applyArmor: 'false'
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      Pr8rQ7apcvpAcdr7: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689445611748
+      modifiedTime: 1689445642611
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Compendium.te001-core-rulebook.Items.2kc6JsOu5pXB1c88
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.qmWxv0zsqLPJ3UZs'
+  - _id: PPWkTULAS4jcj0fK
+    name: Lightning
+    type: spell
+    img: systems/torgeternity/images/icons/spell-icon.webp
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core: {}
+    system:
+      axiom: 14
+      skill: conjuration
+      skilllevel: 14
+      castingtime: 1 action
+      dnType: ''
+      dn: targetDodge
+      targetDefense: ''
+      modifier: null
+      range: 100 meters
+      duration: Instant
+      description: >-
+        <p>This powerful attack spell calls forth a bolt of lightning strong
+        enough to harm even the great dragons of Aysle. The damage of the bolt
+        is 16 and it ignores 4 points of armor. This spell may not use the
+        @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#multi-targeting]{Multi-Target}
+        option.</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      good: Damage +1 BD
+      outstanding: Damage +2 BD
+      isAttack: 'true'
+      damage: 16
+      ap: 4
+      applySize: 'true'
+      applyArmor: 'true'
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      Pr8rQ7apcvpAcdr7: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689445617580
+      modifiedTime: 1689445636555
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Compendium.te001-core-rulebook.Items.UaCvLDR3xxl06513
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.PPWkTULAS4jcj0fK'
+  - _id: HS6JkzBn7eUaOh6Y
+    name: Mage Dark
+    type: spell
+    img: systems/torgeternity/images/icons/spell-icon.webp
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core: {}
+    system:
+      axiom: 13
+      skill: conjuration
+      skilllevel: 10
+      castingtime: 1 action
+      dnType: ''
+      dn: standard
+      targetDefense: ''
+      modifier: null
+      range: 50 meters
+      duration: Concentration
+      description: >-
+        <p><em>Mage dark</em> fills a five-meter radius with total darkness.
+        Everything within the affected area is shrouded in Pitch Black
+        (&ndash;6) conditions.</p>
+
+        <p>If cast on an area of existing <em>mage light</em>, it drowns it out
+        and consumes it.</p>
+
+        <p>See the
+        @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#darkness]{darkness}
+        penalties for more information.</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      good: Radius of 10 meters
+      outstanding: Characters who normally ignore darkness penalties are affected as well
+      isAttack: 'false'
+      damage: null
+      ap: 0
+      applySize: 'false'
+      applyArmor: 'false'
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      Pr8rQ7apcvpAcdr7: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689445622851
+      modifiedTime: 1689445629977
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Compendium.te001-core-rulebook.Items.h8NdZ10A8WTozHPS
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.HS6JkzBn7eUaOh6Y'
+  - _id: UY32NRuHsCtXL1c0
+    name: Spellcaster
+    type: perk
+    img: systems/torgeternity/images/icons/reality-icon.webp
+    effects: []
+    folder: null
+    sort: 0
+    flags:
+      core: {}
+    system:
+      category: spellcraft
+      cosm: Other
+      prerequisites: At least one add in alteration, apportation, conjuration, or divination
+      timestaken: null
+      description: >-
+        <p><strong>Cosms:</strong> Aysle, Core Earth, Cyberpapacy, Nile Empire,
+        Orrorsh, Tharkold</p>
+
+        <p>Those who delve into the arcane arts go by many names &mdash; mage,
+        wizard, witch, or warlock to name a few. Regardless of their particular
+        background, all can cast spells using any of the four primary types of
+        magical skill &mdash; <em>alteration</em>, <em>apportation</em>,
+        <em>conjuration</em>, or <em>divination magic</em>.</p>
+
+        <p>When this Perk is taken, the mage may choose any three spells from
+        her cosm&rsquo;s Spell List on page 186 for which she meets the minimum
+        skill. Spell details are explained in
+        @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.PjteC3KQ7SI4gobV]{Magic}.</p>
+
+        <p><strong>New Spells:</strong> This Perk may be taken more than once.
+        Each time after the first, the character learns one additional
+        spell.</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      pulpPowers:
+        enhancementNumber: 0
+        enhancement01:
+          title: ''
+          description: ''
+          taken: false
+        enhancement02:
+          title: ''
+          description: ''
+          taken: false
+        enhancement03:
+          title: ''
+          description: ''
+          taken: false
+        enhancement04:
+          title: ''
+          description: ''
+          taken: false
+        enhancement05:
+          title: ''
+          description: ''
+          taken: false
+        enhancement06:
+          title: ''
+          description: ''
+          taken: false
+        enhancement07:
+          title: ''
+          description: ''
+          taken: false
+        enhancement08:
+          title: ''
+          description: ''
+          taken: false
+        enhancement09:
+          title: ''
+          description: ''
+          taken: false
+        enhancement10:
+          title: ''
+          description: ''
+          taken: false
+        enhancement11:
+          title: ''
+          description: ''
+          taken: false
+        enhancement12:
+          title: ''
+          description: ''
+          taken: false
+        enhancement13:
+          title: ''
+          description: ''
+          taken: false
+        enhancement14:
+          title: ''
+          description: ''
+          taken: false
+        enhancement15:
+          title: ''
+          description: ''
+          taken: false
+        limitationNumber: 0
+        limitation01: ''
+        limitation02: ''
+        limitation03: ''
+        limitation04: ''
+        limitation05: ''
+        limitation06: ''
+        limitation07: ''
+        limitation08: ''
+        limitation09: ''
+        limitation10: ''
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      Pr8rQ7apcvpAcdr7: 3
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: 1689445694947
+      modifiedTime: 1689445701588
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Compendium.te001-core-rulebook.Items.veILcJaF0ucF9xAA
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.UY32NRuHsCtXL1c0'
+effects: []
+system:
+  attributes:
+    charisma: 8
+    dexterity: 10
+    mind: 10
+    spirit: 12
+    strength: 14
+  other:
+    armor: 2
+    cosm: Cyberpapacy
+    move: 10
+    possibilities: 3
+    run: 30
+    toughness: 16
+  shock:
+    max: 12
+    value: 0
+  skills:
+    airVehicles:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    alteration:
+      adds: '4'
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 14
+    apportation:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    beastRiding:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    computers:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    conjuration:
+      adds: '2'
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 14
+    divination:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    dodge:
+      adds: '2'
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 12
+    energyWeapons:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    evidenceAnalysis:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    faith:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    find:
+      adds: '1'
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 11
+    fireCombat:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    firstAid:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    heavyWeapons:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    intimidation:
+      adds: '4'
+      baseAttribute: spirit
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 16
+      defenseOnly: 'true'
+    kinesis:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    landVehicles:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    language:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    lockpicking:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    maneuver:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+      defenseOnly: 'true'
+    medicine:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    meleeWeapons:
+      adds: '5'
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 15
+    missileWeapons:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    persuasion:
+      adds: ''
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    precognition:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    profession:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    reality:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    scholar:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    science:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    stealth:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    streetwise:
+      adds: ''
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    survival:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    taunt:
+      adds: ''
+      baseAttribute: charisma
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+      defenseOnly: 'true'
+    telepathy:
+      adds: ''
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 0
+      value: 0
+    tracking:
+      adds: ''
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    trick:
+      adds: ''
+      baseAttribute: mind
+      groupName: interaction
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+      defenseOnly: 'true'
+    unarmedCombat:
+      adds: '2'
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 12
+    waterVehicles:
+      adds: ''
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+    willpower:
+      adds: ''
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      isThreatSkill: false
+      unskilledUse: 1
+      value: 0
+  wounds:
+    max: 3
+    value: 0
+  details:
+    description: >-
+      <p
+      class="moreheight">@UUID[Compendium.te003-hostel-takeover.hostel-takeover-handouts.JournalEntry.RdKtcFZWOb88sGyp.JournalEntryPage.UFu6s2S3jb869BFY]{Zapar-Agentalus,
+      Minor Demon}</p>
+
+      <p
+      class="moreheight">@UUID[Compendium.te003-hostel-takeover.hostel-takeover-handouts.JournalEntry.RdKtcFZWOb88sGyp.JournalEntryPage.7Mw5flNQTV18dsMh]{Threat
+      Card - Demon, Minor}</p>
+
+      <p>Zapar-Agentalus is the demon&rsquo;s name. It thrives on torture,
+      murder, and lies. It actually intends to keep a low profile, but that
+      still means a horrible death for occasional guests who stay at the
+      hostel.</p>
+
+      <p>While it possesses Constance, her eyes are solid, glistening black and
+      her lips and tongue are a deep red. It&rsquo;s lying when it says it
+      can&rsquo;t be defeated without killing her. Once it takes eight Shock her
+      body is KO&rsquo;ed and Zapar-Agentalus must emerge to fight in its true
+      form. If the fiend suffers a Wound, Constance also falls and the demon
+      must emerge. If a hero manages to stabilize her with first aid within a
+      round, or the Wound was dealt by non-lethal damage, she survives. If no
+      one stabilizes her or the blow deals two more Wounds, Constance does
+      indeed perish.</p>
+
+      <p>In its true form Zapar-Agentalus has a writhing, worm-like lower body.
+      A thick, red slime that smells like blood drips from every inch of its
+      exposed skin. The solid black eyes remain constant.</p>
+    possibilitypotential: '3'
+    sizeBonus: normal
+    clearance: alpha
+  editstate: none
+  possibilities: null
+ownership:
+  default: 0
+  A9LyAqagoJJU3gDH: 3
+prototypeToken:
+  flags: {}
+  name: Constance
+  displayName: 30
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 30
+  bar1:
+    attribute: wounds
+  bar2:
+    attribute: shock
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    color: null
+    alpha: 1
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+    negative: false
+    priority: 0
+  texture:
+    src: modules/te003-hostel-takeover/character-images/Zapar_Agentalus.Token.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  alpha: 1
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+folder: null
+_stats:
+  systemId: torgeternity
+  systemVersion: 3.6.0
+  coreVersion: '13.351'
+  createdTime: 1689444985823
+  modifiedTime: 1711012966925
+  lastModifiedBy: CtisFurQNe9h7ABb
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!actors!SIIAZ1ZFvOSGEiUG'
+

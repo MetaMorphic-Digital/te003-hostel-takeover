@@ -1,0 +1,433 @@
+_id: qjyC5qzQn6ByRMjA
+name: Pascale Petit
+type: threat
+sort: 100001
+flags: {}
+img: modules/te003-hostel-takeover/character-images/Pascale_Petit.Avatar.webp
+items: []
+effects: []
+system:
+  shock:
+    max: 6
+    value: 0
+  wounds:
+    max: 0
+    value: 0
+  attributes:
+    charisma: 6
+    dexterity: 6
+    mind: 7
+    spirit: 6
+    strength: 7
+  other:
+    move: 6
+    run: 5
+    toughness: 7
+    armor: 0
+    cosm: ''
+    possibilities: 0
+  skills:
+    airVehicles:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    alteration:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    apportation:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    beastRiding:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    computers:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    conjuration:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    divination:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    dodge:
+      baseAttribute: dexterity
+      adds: ''
+      value: 7
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    energyWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    evidenceAnalysis:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    faith:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    find:
+      baseAttribute: mind
+      adds: ''
+      value: 8
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    fireCombat:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    firstAid:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    heavyWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    intimidation:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    kinesis:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    landVehicles:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    language:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    lockpicking:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    maneuver:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    medicine:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    meleeWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    missileWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    persuasion:
+      baseAttribute: charisma
+      adds: ''
+      value: 7
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    precognition:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    profession:
+      baseAttribute: mind
+      adds: ''
+      value: 8
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    reality:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    scholar:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    science:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    stealth:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    streetwise:
+      baseAttribute: charisma
+      adds: ''
+      value: 7
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    survival:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    taunt:
+      baseAttribute: charisma
+      adds: ''
+      value: 7
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    telepathy:
+      baseAttribute: charisma
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    tracking:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    trick:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    unarmedCombat:
+      baseAttribute: dexterity
+      adds: ''
+      value: 7
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    waterVehicles:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    willpower:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+  details:
+    possibilitypotential: (none)
+    description: >-
+      <p>Pascale is the gentle owner of the hostel. He made a fair living
+      running the place before the war and especially enjoyed cooking for
+      people. He doesn&rsquo;t believe in Malraux&rsquo;s Cyberchurch, but also
+      has no particular issue with it. He hasn&rsquo;t had any cyberware
+      upgrades installed and has a very low Piety score.</p>
+
+      <p>At first Pascale claims to run the hostel alone, but reverses himself
+      if pressed after the characters look around and find evidence of his wife
+      and mother. He knows the demon possessed his mother (see below), but
+      doesn&rsquo;t want the Church Police to come and take her away. He&rsquo;s
+      trying to keep his pious wife quiet until he can figure out how to save
+      his mother. These intruders are yet another threat and obstacle as far as
+      he&rsquo;s concerned.</p>
+
+      <p><strong>Quote:</strong> &ldquo;We are closed to guests, go
+      away!&rdquo;</p>
+    sizeBonus: normal
+    clearance: alpha
+  editstate: none
+  possibilities: null
+ownership:
+  default: 0
+  A9LyAqagoJJU3gDH: 3
+prototypeToken:
+  flags: {}
+  name: Pascale Petit
+  displayName: 30
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 30
+  bar1:
+    attribute: wounds
+  bar2:
+    attribute: shock
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    color: null
+    alpha: 1
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+    negative: false
+    priority: 0
+  texture:
+    src: modules/te003-hostel-takeover/character-images/Pascale_Petit.Token.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  alpha: 1
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+folder: null
+_stats:
+  systemId: torgeternity
+  systemVersion: 2.9.3
+  coreVersion: '13.351'
+  createdTime: null
+  modifiedTime: 1689443527230
+  lastModifiedBy: Pr8rQ7apcvpAcdr7
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!actors!qjyC5qzQn6ByRMjA'
+

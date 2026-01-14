@@ -1,0 +1,4 @@
+.code-workspace
+/packs/
+/node_modules
+npm.debug.log

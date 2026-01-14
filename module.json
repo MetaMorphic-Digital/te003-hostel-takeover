@@ -1,5 +1,5 @@
 {
-	"name": "te003-hostel-takeover",
+	"id": "te003-hostel-takeover",
 	"title": "Torg Eternity - Hostel Takeover Adventure Module",
 	"description": "Hostel Takeover, a Torg Eternity One-Act Adventure",
         "authors": [
@@ -7,10 +7,10 @@
            "name": "VTT Southwest, LLC"
            }
          ],
-	"version": "2.0.1",
+	"version": "2.1.0",
         "compatibility": {
-          "minimum": "11",
-          "verified": "11"
+          "minimum": 13.351,
+          "verified": 13.351
         },
   "relationships": {
     "systems": [{

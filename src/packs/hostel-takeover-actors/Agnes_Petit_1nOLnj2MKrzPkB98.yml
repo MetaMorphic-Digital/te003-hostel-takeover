@@ -1,0 +1,587 @@
+_id: 1nOLnj2MKrzPkB98
+name: Agnes Petit
+type: threat
+sort: 100001
+flags: {}
+img: modules/te003-hostel-takeover/character-images/Agnes_Petit.Avatar.webp
+items:
+  - _id: RUfZJSmsuyWLhnLc
+    name: Cyberware Implants
+    type: perk
+    sort: 100000
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/reality-icon.webp
+    effects: []
+    system:
+      category: cyberware
+      cosm: Cyberpapacy
+      prerequisites: ''
+      timestaken: 1
+      description: >-
+        <p>When this Perk is selected, the character may choose up to $10 000
+        worth of Cyberware from the lists on page 160.</p><p>Official
+        Church-approved cyberware is linked directly to the GodNet and carefully
+        monitored. Devices bought via this Perk are <q>hacked</q> and don’t link
+        to the GodNet (unless the wearer wants it to for some reason). Its
+        installation is safe and free from risk of injury.</p><p>Hacked
+        cyberware is a crime in the Cyberpapacy, however. Heroes who
+        <q>chrome</q> their bodies best beware of the Church Police—they are
+        <em>always</em> watching.</p><p><strong>New Implants:</strong> This Perk
+        may be taken more than once. Each time after the first, it grants the
+        user another $5 000 worth of implants.</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules</strong></p>
+      pulpPowers:
+        enhancementNumber: 0
+        enhancement01:
+          title: ''
+          description: ''
+          taken: false
+        enhancement02:
+          title: ''
+          description: ''
+          taken: false
+        enhancement03:
+          title: ''
+          description: ''
+          taken: false
+        enhancement04:
+          title: ''
+          description: ''
+          taken: false
+        enhancement05:
+          title: ''
+          description: ''
+          taken: false
+        enhancement06:
+          title: ''
+          description: ''
+          taken: false
+        enhancement07:
+          title: ''
+          description: ''
+          taken: false
+        enhancement08:
+          title: ''
+          description: ''
+          taken: false
+        enhancement09:
+          title: ''
+          description: ''
+          taken: false
+        enhancement10:
+          title: ''
+          description: ''
+          taken: false
+        enhancement11:
+          title: ''
+          description: ''
+          taken: false
+        enhancement12:
+          title: ''
+          description: ''
+          taken: false
+        enhancement13:
+          title: ''
+          description: ''
+          taken: false
+        enhancement14:
+          title: ''
+          description: ''
+          taken: false
+        enhancement15:
+          title: ''
+          description: ''
+          taken: false
+        limitationNumber: 0
+        limitation01: ''
+        limitation02: ''
+        limitation03: ''
+        limitation04: ''
+        limitation05: ''
+        limitation06: ''
+        limitation07: ''
+        limitation08: ''
+        limitation09: ''
+        limitation10: ''
+    folder: null
+    ownership:
+      default: 0
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1689443859772
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Compendium.te001-core-rulebook.Items.8LBHAgahJO6xorta
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!1nOLnj2MKrzPkB98.RUfZJSmsuyWLhnLc'
+  - _id: 28nlTK9HxlkwIfDQ
+    name: HardPlas LifeLock Backup Systems
+    type: implant
+    sort: 200000
+    flags:
+      core: {}
+    img: systems/torgeternity/images/icons/cyberware-icon.webp
+    effects: []
+    system:
+      cosm: Cyberpapacy
+      description: >-
+        <p>Several of the character&rsquo;s vital organs are augmented with
+        efficient cybernetic equivalents. These new organs have
+        self-diagnostics, backup power, and some can even reroute functions in
+        an emergency. When the character must roll for Defeat she ignores the
+        penalties for up to two wound.</p>
+
+        <p>updated in Cyberpapacy Sourcebook</p>
+
+        <p>&nbsp;</p>
+
+        <p>Found in <strong>Core Rules, Cyberpapacy Sourcebook</strong></p>
+      techlevel: 26
+      price: 3,000
+      value: 17
+      notes: ''
+    folder: null
+    ownership:
+      default: 0
+    _stats:
+      systemId: torgeternity
+      systemVersion: 2.9.3
+      coreVersion: '13.351'
+      createdTime: null
+      modifiedTime: 1689443881200
+      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      compendiumSource: Compendium.te001-core-rulebook.Items.Ug5iJbcBYrtdXnSx
+      duplicateSource: null
+      exportSource: null
+    _key: '!actors.items!1nOLnj2MKrzPkB98.28nlTK9HxlkwIfDQ'
+effects: []
+system:
+  shock:
+    max: 8
+    value: 0
+  wounds:
+    max: 0
+    value: 0
+  attributes:
+    charisma: 6
+    dexterity: 6
+    mind: 6
+    spirit: 8
+    strength: 6
+  other:
+    move: 6
+    run: 18
+    toughness: 6
+    armor: 0
+    cosm: Cyberpapacy
+    possibilities: 0
+  skills:
+    airVehicles:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    alteration:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    apportation:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    beastRiding:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    computers:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    conjuration:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    divination:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    dodge:
+      baseAttribute: dexterity
+      adds: '1'
+      value: 7
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    energyWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    evidenceAnalysis:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    faith:
+      baseAttribute: spirit
+      adds: '2'
+      value: 10
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    find:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    fireCombat:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    firstAid:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    heavyWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    intimidation:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    kinesis:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    landVehicles:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    language:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    lockpicking:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    maneuver:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    medicine:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    meleeWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    missileWeapons:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    persuasion:
+      baseAttribute: charisma
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    precognition:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    profession:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    reality:
+      baseAttribute: spirit
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    scholar:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    science:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    stealth:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    streetwise:
+      baseAttribute: charisma
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    survival:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    taunt:
+      baseAttribute: charisma
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    telepathy:
+      baseAttribute: charisma
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 0
+    tracking:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    trick:
+      baseAttribute: mind
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: interaction
+      unskilledUse: 1
+      defenseOnly: 'true'
+    unarmedCombat:
+      baseAttribute: dexterity
+      adds: '1'
+      value: 7
+      isFav: false
+      groupName: combat
+      unskilledUse: 1
+    waterVehicles:
+      baseAttribute: dexterity
+      adds: ''
+      value: 0
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+    willpower:
+      baseAttribute: spirit
+      adds: '2'
+      value: 10
+      isFav: false
+      groupName: other
+      unskilledUse: 1
+  details:
+    possibilitypotential: None
+    description: >-
+      <p>Agnes is Pascale&rsquo;s wife. She&rsquo;s a devout member of the
+      Cyberchurch and a true believer. Most of the upgrades downstairs were won
+      with her high Piety Score. Turning in a family member would earn her
+      enough points for another upgrade.</p>
+
+      <p>Agnes&rsquo; neck and spine are cyberware, an elective upgrade she took
+      to improve her posture. She wants to summon the Church Police to the
+      hostel as soon as possible. She&rsquo;s uncooperative once it&rsquo;s
+      apparent the Storm Knights are against Malraux. She loves her husband, but
+      not enough to overlook his recent blasphemous behavior.</p>
+
+      <p><strong>Quote:</strong> &ldquo;We must call the Church Police.
+      It&rsquo;s for Constance&rsquo;s soul. The extra points are just a
+      bonus!&rdquo;</p>
+    sizeBonus: normal
+    clearance: alpha
+  editstate: none
+  possibilities: null
+ownership:
+  default: 0
+  A9LyAqagoJJU3gDH: 3
+prototypeToken:
+  flags: {}
+  name: Agnes Petit
+  displayName: 30
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 30
+  bar1:
+    attribute: wounds
+  bar2:
+    attribute: shock
+  randomImg: false
+  light:
+    dim: 0
+    bright: 0
+    angle: 360
+    color: null
+    alpha: 1
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    coloration: 1
+    attenuation: 0.5
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    darkness:
+      min: 0
+      max: 1
+    negative: false
+    priority: 0
+  texture:
+    src: modules/te003-hostel-takeover/character-images/Agnes_Petit.Token.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  alpha: 1
+  detectionModes: []
+  appendNumber: false
+  prependAdjective: false
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 1
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+folder: null
+_stats:
+  systemId: torgeternity
+  systemVersion: 2.9.3
+  coreVersion: '13.351'
+  createdTime: 1689441811584
+  modifiedTime: 1689443881200
+  lastModifiedBy: Pr8rQ7apcvpAcdr7
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+_key: '!actors!1nOLnj2MKrzPkB98'
+

@@ -1,0 +1,33 @@
+{
+    "name": "te002-up-the-creek",
+    "version": "1.0.0",
+    "description": "Free module for testing the Torg Eternity foundry system.",
+    "main": "module.json",
+    "license": "UNLICENSED",
+    "author": "GM_Matt, Algor, Helmut",
+    "dependencies": {},
+    "devDependencies": {
+      "@foundryvtt/foundryvtt-cli": "^1.0.0-rc.4",
+      "@babel/eslint-parser": "^7.19.1",
+      "@babel/plugin-syntax-import-assertions": "^7.20.0",
+      "eslint": "^8.34.0",
+      "eslint-config-google": "^0.14.0",
+      "eslint-config-prettier": "^8.6.0",
+      "eslint-plugin-jsdoc": "^40.0.0",
+      "eslint-plugin-prettier": "^4.2.1",
+      "prettier": "^2.8.4",
+      "sass": "^1.58.3"
+    },
+    "scripts": {
+      "build": "node ./tools/pullYMLtoLDB.mjs",
+      "extract": "node ./tools/pushLDBtoYML.mjs"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gmmatt/te002-up-the-creek.git"
+    },
+    "bugs": {
+      "url": "https://github.com/gmmatt/te002-up-the-creek/issues"
+    },
+    "homepage": "https://foundryvtt.com/packages/te002-up-the-creek"
+  }

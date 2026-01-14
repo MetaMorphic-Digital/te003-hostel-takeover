@@ -6,12 +6,55 @@ flags: {}
 img: modules/te003-hostel-takeover/character-images/Zapar_Agentalus.Avatar.webp
 items:
   - _id: zdeZQJgUt3BQGy0t
-    name: Armor
+    name: Armor +2
     type: specialability
     sort: 700001
     flags: {}
     img: systems/torgeternity/images/icons/torgeternity-icon.webp
-    effects: []
+    effects:
+      - name: New Effect
+        origin: >-
+          Compendium.te003-hostel-takeover.hostel-takeover-actors.Actor.SIIAZ1ZFvOSGEiUG.Item.zdeZQJgUt3BQGy0t
+        duration:
+          startTime: null
+          combat: null
+          seconds: null
+          rounds: null
+          turns: null
+          startRound: null
+          startTurn: null
+        disabled: false
+        img: icons/svg/aura.svg
+        _id: qLBYjdTf7xDe57Kv
+        type: base
+        system:
+          transferOnAttack: false
+          applyIfAttackTrait: []
+          applyIfDefendTrait: []
+          transferOnOutcome: 0
+        changes:
+          - key: defenses.armor
+            mode: 2
+            value: '2'
+            priority: null
+        description: ''
+        tint: '#ffffff'
+        transfer: true
+        statuses: []
+        sort: 0
+        flags: {}
+        _stats:
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+          coreVersion: '13.351'
+          systemId: torgeternity
+          systemVersion: 13.15.0
+          createdTime: 1768391433370
+          modifiedTime: 1768391451562
+          lastModifiedBy: zYpN4CSV1CuuRNCp
+        _key: >-
+          !actors.items.effects!SIIAZ1ZFvOSGEiUG.zdeZQJgUt3BQGy0t.qLBYjdTf7xDe57Kv
     system:
       description: <p>Protective ooze +2</p>
     folder: null
@@ -22,8 +65,8 @@ items:
       systemVersion: 2.9.3
       coreVersion: '13.351'
       createdTime: null
-      modifiedTime: 1689444985823
-      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      modifiedTime: 1768391438197
+      lastModifiedBy: zYpN4CSV1CuuRNCp
       compendiumSource: null
       duplicateSource: null
       exportSource: null
@@ -126,20 +169,21 @@ items:
     effects: []
     system:
       description: >-
-        <p>Once the demon leaves Constance and reveals its true form all Storm
-        Knights must test <em>willpower</em> or <em>Spirit</em> or become Very
-        Stymied.</p>
+        <p>The creature causes fear. When a character first encounters it in an
+        act, he must make one test @Check[willpower,spirit] or be
+        @Condition[veryStymied]{Very Stymied}. Some particularly terrifying
+        creatures may modify this result.</p>
     folder: null
     ownership:
       default: 0
       4kr6bmxq7tmWuB59: 3
     _stats:
       systemId: torgeternity
-      systemVersion: 2.6.8
+      systemVersion: 13.15.0
       coreVersion: '13.351'
       createdTime: 1664132161377
-      modifiedTime: 1664132161377
-      lastModifiedBy: 4kr6bmxq7tmWuB59
+      modifiedTime: 1768391486888
+      lastModifiedBy: zYpN4CSV1CuuRNCp
       compendiumSource: >-
         Compendium.te003-hostel-takeover.hostel-takeover-actors.S82VsjSY7Oh3ZLzO.Item.te0wS8wp0EQePAmT
       duplicateSource: null

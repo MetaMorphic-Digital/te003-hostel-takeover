@@ -1,0 +1,902 @@
+name: Cyberpriest
+type: threat
+img: modules/te003-hostel-takeover/character-images/Cyberpriest.Avatar.webp
+items:
+  - _id: ltvvc2fxveybs36q
+    name: Gloater
+    type: specialability
+    sort: 400000
+    flags: {}
+    img: systems/torgeternity/images/icons/torgeternity-icon.webp
+    effects: []
+    folder: null
+    system:
+      description: >-
+        <p>When <em>taunt</em> or <em>intimidation</em> are Approved Actions,
+        the villain may affect the entire party without a Multi-Target penalty.
+        Affected heroes lose a random card from their hand.</p>
+      cosm: none
+      traits: []
+      axioms:
+        magic: 0
+        social: 0
+        spirit: 0
+        tech: 0
+    ownership:
+      default: 0
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: torgeternity
+      systemVersion: 13.15.0
+      lastModifiedBy: null
+    _key: '!actors.items!h2BDiO3PAcxBZlP3.ltvvc2fxveybs36q'
+  - _id: NLLgUpWe9ifo0vgV
+    name: Cyberware Implants
+    type: perk
+    img: systems/torgeternity/images/icons/reality-icon.webp
+    effects: []
+    folder: null
+    sort: 13100000
+    flags:
+      core: {}
+    system:
+      category: cyberware
+      cosm: cyberpapacy
+      description: "<p>When this Perk is selected, the character may choose up to $10 000 worth of @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#cyberware]{Cyberware}.</p><p>Official Church-approved cyberware is linked directly to the GodNet and carefully monitored. Devices bought via this Perk are <q>hacked</q> and don’t link to the GodNet (unless the wearer wants it to for some reason). Its installation is safe and free from risk of injury.</p><p>Hacked cyberware is a crime in the Cyberpapacy, however. Heroes who <q>chrome</q> their bodies best beware of the Church Police—they are <em>always</em> watching.</p><p><strong>New Implants:</strong> This Perk may be taken more than once. Each time after the first, it grants the user another $5 000 worth of implants.</p><p>\_</p><p>Found in <strong>Core Rules</strong></p>"
+      prerequisites: ''
+      generalContradiction: false
+      pulpPowers:
+        enhancement01:
+          description: ''
+          taken: false
+          title: ''
+        enhancement02:
+          description: ''
+          taken: false
+          title: ''
+        enhancement03:
+          description: ''
+          taken: false
+          title: ''
+        enhancement04:
+          description: ''
+          taken: false
+          title: ''
+        enhancement05:
+          description: ''
+          taken: false
+          title: ''
+        enhancement06:
+          description: ''
+          taken: false
+          title: ''
+        enhancement07:
+          description: ''
+          taken: false
+          title: ''
+        enhancement08:
+          description: ''
+          taken: false
+          title: ''
+        enhancement09:
+          description: ''
+          taken: false
+          title: ''
+        enhancement10:
+          description: ''
+          taken: false
+          title: ''
+        enhancement11:
+          description: ''
+          taken: false
+          title: ''
+        enhancement12:
+          description: ''
+          taken: false
+          title: ''
+        enhancement13:
+          description: ''
+          taken: false
+          title: ''
+        enhancement14:
+          description: ''
+          taken: false
+          title: ''
+        enhancement15:
+          description: ''
+          taken: false
+          title: ''
+        enhancementNumber: 0
+        limitation01: ''
+        limitation02: ''
+        limitation03: ''
+        limitation04: ''
+        limitation05: ''
+        limitation06: ''
+        limitation07: ''
+        limitation08: ''
+        limitation09: ''
+        limitation10: ''
+        limitationNumber: 0
+      timestaken: '1'
+      secondaryAxiom: none
+      transferenceID: null
+      traits: []
+      axioms:
+        magic: 0
+        social: 0
+        spirit: 0
+        tech: 0
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      VAnYow5sWS9EJzo0: 3
+      93AMwcGe6H37rcPA: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: torgeternity
+      systemVersion: 13.15.0
+      lastModifiedBy: null
+    _key: '!actors.items!h2BDiO3PAcxBZlP3.NLLgUpWe9ifo0vgV'
+  - _id: 9WoZS9SePkiDsZhx
+    name: Miracles
+    type: perk
+    img: systems/torgeternity/images/icons/reality-icon.webp
+    effects: []
+    folder: null
+    sort: 32200000
+    flags:
+      core: {}
+    system:
+      category: faith
+      cosm: other
+      description: "<p><strong>Cosms:</strong> Core Earth, Aysle, Cyberpapacy, Living Land, Nile Empire, Orrorsh</p><p>The hero is blessed with the ability to call forth miracles. He gains access to any Miracle List that is associated with his religion, and is not specified by another Perk. Here are some @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW#example-miracle-lists]{Example miracle lists} given.<br />The Core Earth Religions supplement provide some expanded @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.uTwRLGOalhiSSWeA.JournalEntryPage.r4Txsus7j2Xabtw0#miracle-lists]{Miracle Lists}.</p><p>She gains <em>ward enemy</em> any two miracles chosen from any list she knows. See @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.0yCTjO5Wj0tFVzBW]{Miracles}\_to find out how to invoke them and what happens should the invocation fail.</p><p><strong>New Miracles:</strong> This Perk may be taken more than once. Each time after the first, it grants the user one additional miracle.</p><p>\_</p><p>Found in <strong>Core Rules</strong></p>"
+      prerequisites: At least one add in faith
+      generalContradiction: false
+      pulpPowers:
+        enhancement01:
+          description: ''
+          taken: false
+          title: ''
+        enhancement02:
+          description: ''
+          taken: false
+          title: ''
+        enhancement03:
+          description: ''
+          taken: false
+          title: ''
+        enhancement04:
+          description: ''
+          taken: false
+          title: ''
+        enhancement05:
+          description: ''
+          taken: false
+          title: ''
+        enhancement06:
+          description: ''
+          taken: false
+          title: ''
+        enhancement07:
+          description: ''
+          taken: false
+          title: ''
+        enhancement08:
+          description: ''
+          taken: false
+          title: ''
+        enhancement09:
+          description: ''
+          taken: false
+          title: ''
+        enhancement10:
+          description: ''
+          taken: false
+          title: ''
+        enhancement11:
+          description: ''
+          taken: false
+          title: ''
+        enhancement12:
+          description: ''
+          taken: false
+          title: ''
+        enhancement13:
+          description: ''
+          taken: false
+          title: ''
+        enhancement14:
+          description: ''
+          taken: false
+          title: ''
+        enhancement15:
+          description: ''
+          taken: false
+          title: ''
+        enhancementNumber: 0
+        limitation01: ''
+        limitation02: ''
+        limitation03: ''
+        limitation04: ''
+        limitation05: ''
+        limitation06: ''
+        limitation07: ''
+        limitation08: ''
+        limitation09: ''
+        limitation10: ''
+        limitationNumber: 0
+      timestaken: '1'
+      secondaryAxiom: none
+      transferenceID: null
+      traits: []
+      axioms:
+        magic: 0
+        social: 0
+        spirit: 0
+        tech: 0
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      VAnYow5sWS9EJzo0: 3
+      93AMwcGe6H37rcPA: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: torgeternity
+      systemVersion: 13.15.0
+      lastModifiedBy: null
+    _key: '!actors.items!h2BDiO3PAcxBZlP3.9WoZS9SePkiDsZhx'
+  - _id: 1ftMpIes6ylMt4Sb
+    name: Trigon Body Plating
+    type: implant
+    img: systems/torgeternity/images/icons/cyberware-icon.webp
+    effects:
+      - _id: pZH4SwG8NDIRYIfv
+        flags: {}
+        changes:
+          - key: defenses.armor
+            mode: 2
+            value: '2'
+            priority: null
+        disabled: false
+        duration:
+          startTime: 0
+          seconds: null
+          combat: null
+          rounds: null
+          turns: null
+          startRound: 3
+          startTurn: 0
+        origin: Item.AmzAKdW1aT5px35s
+        tint: '#ffffff'
+        transfer: true
+        name: Armor +2
+        description: ''
+        statuses: []
+        _stats:
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
+          coreVersion: '13.351'
+          systemId: torgeternity
+          systemVersion: 13.15.0
+          lastModifiedBy: null
+        img: icons/svg/aura.svg
+        type: base
+        system:
+          transferOnAttack: false
+          applyIfAttackTrait: []
+          applyIfDefendTrait: []
+        sort: 0
+        _key: >-
+          !actors.items.effects!h2BDiO3PAcxBZlP3.1ftMpIes6ylMt4Sb.pZH4SwG8NDIRYIfv
+    folder: RAxVzK08QIZxH5Xs
+    sort: 1200000
+    flags:
+      core: {}
+    system:
+      cosm: cyberpapacy
+      description: "<p>@UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.qKdamp4rrcX6TTt0#full-body/torso:]{Full Body Armor}</p><p>This subdermal armor is grafted throughout the patient’s body, increasing overall durability. It adds +2 Armor, and provides Full Body coverage. Note that body plating is armor, so it doesn’t stack with any worn armor - just take the highest value for a location.</p><p>\_</p><p>Also found in Cyberpapacy Sourcebook Module</p>"
+      price: '6000'
+      value: 19
+      notes: +2 Armor, Full Body, concealed under skin
+      implantType: cyberware
+      traits:
+        - fullBody
+      secondaryAxiom: none
+      axioms:
+        tech: 26
+        magic: 0
+        social: 0
+        spirit: 0
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      VAnYow5sWS9EJzo0: 3
+      W32Zl65V9atvPk8o: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: torgeternity
+      systemVersion: 13.15.0
+      lastModifiedBy: null
+    _key: '!actors.items!h2BDiO3PAcxBZlP3.1ftMpIes6ylMt4Sb'
+  - _id: mYbbhkncMkySx4LQ
+    name: Hellfire
+    type: miracle
+    img: systems/torgeternity/images/icons/miracles-icon.webp
+    effects: []
+    folder: 1nWuSow2h5hzSie4
+    sort: 1300000
+    flags:
+      core: {}
+    system:
+      ap: 0
+      applyArmor: true
+      applySize: true
+      castingtime: 1 action
+      damage: 13
+      description: "<p><em>Hellfire</em> projects a gout of flame from the invoker’s outstretched palm. The flames deal 13 @UUID[Compendium.te001-core-rulebook.rules.JournalEntry.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#fire-damage]{Fire Damage}.</p><p>\_</p><p>Found in <strong>Core Rules</strong></p>"
+      dn: targetDodge
+      dnType: ''
+      duration: Instant
+      good: Damage +1 BD
+      isAttack: true
+      modifier: null
+      outstanding: Damage +2 BD
+      range: 5 meters
+      skill: faith
+      skilllevel: '14'
+      targetDefense: ''
+      traits:
+        - fireDamage
+      axioms:
+        spirit: 16
+        magic: 0
+        social: 0
+        tech: 0
+      cosm: none
+      requiresConcentration: false
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      VAnYow5sWS9EJzo0: 3
+      W32Zl65V9atvPk8o: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: torgeternity
+      systemVersion: 13.15.0
+      lastModifiedBy: null
+    _key: '!actors.items!h2BDiO3PAcxBZlP3.mYbbhkncMkySx4LQ'
+  - _id: zxViTzENAF82o7hI
+    name: Bless
+    type: miracle
+    img: systems/torgeternity/images/icons/miracles-icon.webp
+    effects: []
+    folder: 1nWuSow2h5hzSie4
+    sort: 200000
+    flags:
+      core: {}
+    system:
+      ap: 0
+      applyArmor: false
+      applySize: false
+      castingtime: 1 action
+      damage: null
+      description: "<p><em>Bless</em> surrounds and infuses the caster and his allies with spiritual energy that boosts their physical or mental abilities. The priest chooses any one attribute and calls on his deity to enhance it. <q>May the Lord give us the might of Daniel in the Lion’s Den!</q> increases <em>Strength</em>, for example. Or <q>May Vishnu grant you clarity!</q> might enhance <em>Mind</em>.</p><p>If successful, every ally in range adds +1 to that attribute. Increasing <em>Strength</em> or <em>Spirit</em> does not increase the derived statistics of Toughness and Shock, however.</p><p>@Buff[charisma=+1|duration=3]{Bless: +1 Cha}</p><p>@Buff[dexterity=+1|duration=3]{Bless: +1 Dex}</p><p>@Buff[mind=+1|duration=3]{Bless: +1 Mind}</p><p>@Buff[spirit=+1|duration=3]{Bless: +1 Spirit}</p><p>@Buff[strength=+1|duration=3]{Bless: +1 Str}</p><p>\_</p><p>Found in <strong>Core Rules</strong></p>"
+      dn: standard
+      dnType: ''
+      duration: 3 rounds
+      good: >-
+        <p>Duration increases to 1
+        minute</p><p>@Buff[charisma=+1|duration=6]{Bless: +1 Cha}
+        @Buff[dexterity=+1|duration=6]{Bless: +1 Dex}
+        @Buff[mind=+1|duration=6]{Bless: +1 Mind}
+        @Buff[spirit=+1|duration=6]{Bless: +1 Spirit}
+        @Buff[strength=+1|duration=6]{Bless: +1 Str}</p>
+      isAttack: false
+      modifier: null
+      outstanding: >-
+        <p>As Good, and the attribute increases by
+        +2</p><p>@Buff[charisma=+2|duration=6]{Bless: +2 Cha}
+        @Buff[dexterity=+2|duration=6]{Bless: +2 Dex}
+        @Buff[mind=+2|duration=6]{Bless: +2 Mind}
+        @Buff[spirit=+2|duration=6]{Bless: +2 Spirit}
+        @Buff[strength=+2|duration=6]{Bless: +2 Str}</p>
+      range: 5 meters radius
+      skill: faith
+      skilllevel: '10'
+      targetDefense: ''
+      axioms:
+        spirit: 9
+        magic: 0
+        social: 0
+        tech: 0
+      cosm: none
+      traits: []
+      requiresConcentration: false
+    ownership:
+      default: 0
+      A9LyAqagoJJU3gDH: 3
+      VAnYow5sWS9EJzo0: 3
+      W32Zl65V9atvPk8o: 3
+    _stats:
+      compendiumSource: null
+      duplicateSource: null
+      exportSource: null
+      coreVersion: '13.351'
+      systemId: torgeternity
+      systemVersion: 13.15.0
+      lastModifiedBy: null
+    _key: '!actors.items!h2BDiO3PAcxBZlP3.zxViTzENAF82o7hI'
+effects: []
+folder: null
+flags:
+  core: {}
+system:
+  attributes:
+    charisma:
+      base: 8
+    dexterity:
+      base: 7
+    mind:
+      base: 9
+    spirit:
+      base: 11
+    strength:
+      base: 7
+  other:
+    cosm: none
+    possibilities: 2
+    piety: 0
+  shock:
+    max: 11
+    value: 0
+  skills:
+    airVehicles:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    alteration:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    apportation:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    beastRiding:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    computers:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    conjuration:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    divination:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    dodge:
+      adds: 2
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    energyWeapons:
+      adds: 3
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    evidenceAnalysis:
+      adds: 2
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    faith:
+      adds: 3
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    find:
+      adds: 2
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    fireCombat:
+      adds: 3
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    firstAid:
+      adds: 1
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    heavyWeapons:
+      adds: 2
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    intimidation:
+      adds: 1
+      baseAttribute: spirit
+      groupName: interaction
+      isFav: false
+      unskilledUse: true
+      defenseOnly: false
+      isThreatSkill: false
+    kinesis:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    landVehicles:
+      adds: 2
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    language:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    lockpicking:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    maneuver:
+      adds: 2
+      baseAttribute: dexterity
+      groupName: interaction
+      isFav: false
+      unskilledUse: true
+      defenseOnly: false
+      isThreatSkill: false
+    medicine:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    meleeWeapons:
+      adds: 2
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    missileWeapons:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    persuasion:
+      adds: 1
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    precognition:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    profession:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    reality:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    scholar:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    science:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    stealth:
+      adds: 3
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    streetwise:
+      adds: 0
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    survival:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    taunt:
+      adds: 3
+      baseAttribute: charisma
+      groupName: interaction
+      isFav: false
+      unskilledUse: true
+      defenseOnly: false
+      isThreatSkill: false
+    telepathy:
+      adds: 0
+      baseAttribute: charisma
+      groupName: other
+      isFav: false
+      unskilledUse: false
+      isThreatSkill: false
+      defenseOnly: false
+    tracking:
+      adds: 0
+      baseAttribute: mind
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    trick:
+      adds: 1
+      baseAttribute: mind
+      groupName: interaction
+      isFav: false
+      unskilledUse: true
+      defenseOnly: false
+      isThreatSkill: false
+    unarmedCombat:
+      adds: 2
+      baseAttribute: dexterity
+      groupName: combat
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    waterVehicles:
+      adds: 0
+      baseAttribute: dexterity
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+    willpower:
+      adds: 0
+      baseAttribute: spirit
+      groupName: other
+      isFav: false
+      unskilledUse: true
+      isThreatSkill: false
+      defenseOnly: false
+  wounds:
+    max: 1
+    value: 0
+  details:
+    description: >-
+      <p>@UUID[Compendium.te003-hostel-takeover.hostel-takeover-handouts.JournalEntry.RdKtcFZWOb88sGyp.JournalEntryPage.DESbNRLK0ivA9uIM]{Cyberpriest}</p><p
+      class="moreheight">@UUID[Compendium.te003-hostel-takeover.hostel-takeover-handouts.JournalEntry.RdKtcFZWOb88sGyp.JournalEntryPage.syiknQzRmjnlUZnC]{Threat
+      Card - Cyberpriest}</p><p>Cyberpriests channel the divine energy of Jean
+      Malraux’s god to curse sinners and spread the word of the One True
+      Way.</p>
+    sizeBonus: normal
+    clearance: alpha
+    possibilityPotential: Common (2)
+  editstate: false
+ownership:
+  default: 0
+  VAnYow5sWS9EJzo0: 3
+  zYpN4CSV1CuuRNCp: 3
+prototypeToken:
+  flags: {}
+  name: Cyberpriest
+  displayName: 40
+  width: 1
+  height: 1
+  lockRotation: false
+  rotation: 0
+  actorLink: false
+  disposition: -1
+  displayBars: 30
+  bar1:
+    attribute: wounds
+  bar2:
+    attribute: shock
+  randomImg: false
+  alpha: 1
+  light:
+    alpha: 1
+    angle: 360
+    bright: 0
+    coloration: 1
+    dim: 0
+    luminosity: 0.5
+    saturation: 0
+    contrast: 0
+    shadows: 0
+    animation:
+      type: null
+      speed: 5
+      intensity: 5
+      reverse: false
+    darkness:
+      min: 0
+      max: 1
+    color: null
+    attenuation: 0.5
+    negative: false
+    priority: 0
+  texture:
+    src: modules/te003-hostel-takeover/character-images/Cyberpriest.Token.webp
+    tint: '#ffffff'
+    scaleX: 1
+    scaleY: 1
+    offsetX: 0
+    offsetY: 0
+    rotation: 0
+    anchorX: 0.5
+    anchorY: 0.5
+    fit: contain
+    alphaThreshold: 0.75
+  sight:
+    angle: 360
+    enabled: false
+    range: 0
+    brightness: 1
+    visionMode: basic
+    color: null
+    attenuation: 0.1
+    saturation: 0
+    contrast: 0
+  detectionModes: []
+  appendNumber: true
+  prependAdjective: false
+  occludable:
+    radius: 0
+  ring:
+    enabled: false
+    colors:
+      ring: null
+      background: null
+    effects: 0
+    subject:
+      scale: 1
+      texture: null
+  turnMarker:
+    mode: 1
+    animation: null
+    src: null
+    disposition: false
+  movementAction: null
+_stats:
+  compendiumSource: null
+  duplicateSource: null
+  exportSource: null
+  coreVersion: '13.351'
+  systemId: torgeternity
+  systemVersion: 13.15.0
+  createdTime: 1768391117253
+  modifiedTime: 1768391247646
+  lastModifiedBy: zYpN4CSV1CuuRNCp
+_id: h2BDiO3PAcxBZlP3
+sort: 0
+_key: '!actors!h2BDiO3PAcxBZlP3'
+

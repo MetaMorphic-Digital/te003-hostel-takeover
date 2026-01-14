@@ -42,17 +42,20 @@ items:
       equipped: false
       equippedClass: .item-unequipped
       notes: Non-lethal, Painful
+      traits:
+        - painful
+        - nonLethal
     ownership:
       default: 0
       A9LyAqagoJJU3gDH: 3
       Pr8rQ7apcvpAcdr7: 3
     _stats:
       systemId: torgeternity
-      systemVersion: 3.6.0
+      systemVersion: 13.15.0
       coreVersion: '13.351'
       createdTime: 1689445531074
-      modifiedTime: 1711012966941
-      lastModifiedBy: CtisFurQNe9h7ABb
+      modifiedTime: 1768391037643
+      lastModifiedBy: zYpN4CSV1CuuRNCp
       compendiumSource: Compendium.te001-core-rulebook.Items.9FP2bpghzfeVmMkG
       duplicateSource: null
       exportSource: null
@@ -95,17 +98,19 @@ items:
       equippedClass: .item-unequipped
       notes: ''
       range: 10 / 25 / 40
+      traits:
+        - pistol
     ownership:
       default: 0
       A9LyAqagoJJU3gDH: 3
       Pr8rQ7apcvpAcdr7: 3
     _stats:
       systemId: torgeternity
-      systemVersion: 3.6.0
+      systemVersion: 13.15.0
       coreVersion: '13.351'
       createdTime: 1689445544802
-      modifiedTime: 1711012966941
-      lastModifiedBy: CtisFurQNe9h7ABb
+      modifiedTime: 1768391056862
+      lastModifiedBy: zYpN4CSV1CuuRNCp
       compendiumSource: Compendium.te001-core-rulebook.Items.pBPp45py3ynKoMI1
       duplicateSource: null
       exportSource: null
@@ -148,17 +153,20 @@ items:
       minStrength: null
       notes: Fatigues, Full Body
       fatigue: 1
+      traits:
+        - fatigues
+        - fullBody
     ownership:
       default: 0
       A9LyAqagoJJU3gDH: 3
       GJLkrWXIPZRbEU79: 3
     _stats:
       systemId: torgeternity
-      systemVersion: 3.7.3
+      systemVersion: 13.15.0
       coreVersion: '13.351'
       createdTime: 1711551146835
-      modifiedTime: 1716104352655
-      lastModifiedBy: GJLkrWXIPZRbEU79
+      modifiedTime: 1768391080109
+      lastModifiedBy: zYpN4CSV1CuuRNCp
       compendiumSource: Compendium.te001-core-rulebook.Items.Item.cWKqmCr7HWyz5njU
       duplicateSource: null
       exportSource: null

@@ -29,9 +29,11 @@ jobs:
       # Create a zip file with all files required by the system to add to the release
       - run: |
           zip -r ./module.zip \
+            assets/ \
+            character-images/ \
             images/ \
             packs/ \
-            portraits/ \
+            threat-cards/ \
             module.json \
             te003-hostel-takeover.js \
             settings.js \

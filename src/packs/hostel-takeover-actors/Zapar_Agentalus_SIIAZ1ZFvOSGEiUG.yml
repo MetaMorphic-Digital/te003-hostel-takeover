@@ -6,23 +6,20 @@ flags: {}
 img: modules/te003-hostel-takeover/character-images/Zapar_Agentalus.Avatar.webp
 items:
   - _id: zdeZQJgUt3BQGy0t
-    name: Armor +2
+    name: Armor
     type: specialability
     sort: 700001
     flags: {}
     img: systems/torgeternity/images/icons/torgeternity-icon.webp
     effects:
-      - name: New Effect
+      - name: Armor +2
         origin: >-
           Compendium.te003-hostel-takeover.hostel-takeover-actors.Actor.SIIAZ1ZFvOSGEiUG.Item.zdeZQJgUt3BQGy0t
         duration:
-          startTime: null
-          combat: null
-          seconds: null
-          rounds: null
-          turns: null
-          startRound: null
-          startTurn: null
+          value: null
+          units: seconds
+          expiry: null
+          expired: false
         disabled: false
         img: icons/svg/aura.svg
         _id: qLBYjdTf7xDe57Kv
@@ -32,11 +29,11 @@ items:
           applyIfAttackTrait: []
           applyIfDefendTrait: []
           transferOnOutcome: 0
-        changes:
-          - key: defenses.armor
-            mode: 2
-            value: '2'
-            priority: null
+          changes:
+            - key: defenses.armor
+              value: 2
+              priority: null
+              type: add
         description: ''
         tint: '#ffffff'
         transfer: true
@@ -47,12 +44,15 @@ items:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-          coreVersion: '13.351'
+          coreVersion: '14.369'
           systemId: torgeternity
           systemVersion: 13.15.0
           createdTime: 1768391433370
-          modifiedTime: 1768391451562
-          lastModifiedBy: zYpN4CSV1CuuRNCp
+          modifiedTime: 1792929461145
+          lastModifiedBy: sRxHysQtWL0uR5mA
+        start: null
+        showIcon: 1
+        folder: null
         _key: >-
           !actors.items.effects!SIIAZ1ZFvOSGEiUG.zdeZQJgUt3BQGy0t.qLBYjdTf7xDe57Kv
     system:
@@ -63,74 +63,14 @@ items:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '13.351'
-      createdTime: null
-      modifiedTime: 1768391438197
-      lastModifiedBy: zYpN4CSV1CuuRNCp
+      coreVersion: '14.369'
+      createdTime: 1792929834325
+      modifiedTime: 1792929834325
+      lastModifiedBy: sRxHysQtWL0uR5mA
       compendiumSource: null
       duplicateSource: null
       exportSource: null
     _key: '!actors.items!SIIAZ1ZFvOSGEiUG.zdeZQJgUt3BQGy0t'
-  - _id: 0Tb0o8sZSVLGlwGo
-    name: HTH Attack
-    type: customAttack
-    sort: 500001
-    flags:
-      core: {}
-    img: systems/torgeternity/images/icons/melee-weapon-icon.webp
-    effects: []
-    system:
-      ap: 0
-      attackWith: unarmedCombat
-      chatNote: ''
-      damage: 0
-      damageType: strengthPlus
-      description: null
-      notes: ''
-    folder: null
-    ownership:
-      default: 0
-    _stats:
-      systemId: torgeternity
-      systemVersion: 3.6.0
-      coreVersion: '13.351'
-      createdTime: null
-      modifiedTime: 1711012966925
-      lastModifiedBy: CtisFurQNe9h7ABb
-      compendiumSource: Item.ewfPYWfFRJSZ1FOs
-      duplicateSource: null
-      exportSource: null
-    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.0Tb0o8sZSVLGlwGo'
-  - _id: J7ibpnjaQuirjVQm
-    name: HTH Attack
-    type: customAttack
-    sort: 500001
-    flags:
-      core: {}
-    img: systems/torgeternity/images/icons/melee-weapon-icon.webp
-    effects: []
-    system:
-      ap: 0
-      attackWith: unarmedCombat
-      chatNote: ''
-      damage: 0
-      damageType: strengthPlus
-      description: null
-      notes: ''
-    folder: null
-    ownership:
-      default: 0
-    _stats:
-      systemId: torgeternity
-      systemVersion: 3.6.0
-      coreVersion: '13.351'
-      createdTime: null
-      modifiedTime: 1711012966925
-      lastModifiedBy: CtisFurQNe9h7ABb
-      compendiumSource: Item.ewfPYWfFRJSZ1FOs
-      duplicateSource: null
-      exportSource: null
-    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.J7ibpnjaQuirjVQm'
   - _id: huuUiOe8ubQzn6Q7
     name: Dread
     type: specialability
@@ -150,7 +90,7 @@ items:
     _stats:
       systemId: torgeternity
       systemVersion: 2.6.8
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       createdTime: 1664132159737
       modifiedTime: 1664132159737
       lastModifiedBy: 4kr6bmxq7tmWuB59
@@ -180,7 +120,7 @@ items:
     _stats:
       systemId: torgeternity
       systemVersion: 13.15.0
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       createdTime: 1664132161377
       modifiedTime: 1768391486888
       lastModifiedBy: zYpN4CSV1CuuRNCp
@@ -208,7 +148,7 @@ items:
     _stats:
       systemId: torgeternity
       systemVersion: 2.6.8
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       createdTime: 1664132162992
       modifiedTime: 1664132162992
       lastModifiedBy: 4kr6bmxq7tmWuB59
@@ -228,14 +168,15 @@ items:
       core: {}
     system:
       description: >-
-        <p>At first the demon fights from within Constance&rsquo;s body. Once
-        the host body suffers enough Shock or Wounds to be KO&rsquo;ed,
-        Zapar-Agentalus must emerge, usually from the target&rsquo;s mouth like
-        a long stream of vomit. This triggers the demon&rsquo;s Fear ability. If
-        Pascale is in the room the demon leaps into him next. Doing so requires
-        its action, but restores all its lost Shock. It can only possess Ords,
-        and can&rsquo;t possess Agnes due to her faith, her cyberware, or
-        perhaps both.</p>
+        <p>At first the demon fights from within Constance’s body. Once the host
+        body suffers enough Shock or Wounds to be KO’ed, Zapar-Agentalus must
+        emerge, usually from the target’s mouth like a long stream of vomit.
+        This triggers the demon’s
+        @UUID[Compendium.te003-hostel-takeover.hostel-takeover-actors.Actor.SIIAZ1ZFvOSGEiUG.Item.BwgNW1HJhJiIY9nr]{Fear}
+        ability. If Pascale is in the room the demon leaps into him next. Doing
+        so requires its action, but restores all its lost Shock. It can only
+        possess Ords, and can’t possess Agnes due to her faith, her cyberware,
+        or perhaps both.</p>
       attackWith: willpower
       damage: null
       ap: 0
@@ -246,137 +187,22 @@ items:
       4kr6bmxq7tmWuB59: 3
     _stats:
       systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '13.351'
+      systemVersion: 14.7.0
+      coreVersion: '14.369'
       createdTime: 1664131796818
-      modifiedTime: 1689445032114
-      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      modifiedTime: 1792929995535
+      lastModifiedBy: sRxHysQtWL0uR5mA
       compendiumSource: Actor.JLVNfaFx2B2A1O6A.Item.CQu6gRCaFAi8T176
       duplicateSource: null
       exportSource: null
     _key: '!actors.items!SIIAZ1ZFvOSGEiUG.bCcrVGIq9MeunGGj'
-  - _id: qmWxv0zsqLPJ3UZs
-    name: Disguise
-    type: spell
-    img: systems/torgeternity/images/icons/spell-icon.webp
-    effects: []
-    folder: null
-    sort: 0
-    flags:
-      core: {}
-    system:
-      axiom: 12
-      skill: alteration
-      skilllevel: 12
-      castingtime: 1 action
-      dnType: ''
-      dn: standard
-      targetDefense: ''
-      modifier: null
-      range: Touch
-      duration: 10 minutes
-      description: >-
-        <p>This spell may only be cast once per day.</p>
-
-        <p><em>Disguise</em> gives a caster (or an ally if desired) the physical
-        appearance of another, including clothing, weapons, and other normal
-        accessories. Items created as part of the disguise are useless beyond
-        looking the part.</p>
-
-        <p>The <em>disguise</em> may copy a specific person if the caster has
-        seen him or her (or a high-quality painting or photo). <em>Disguise</em>
-        only covers the physical appearance of the target&mdash;interaction may
-        still require <em>persuasion</em> tests or the like.</p>
-
-        <p>The disguised individual stays the same mass, but can appear as a
-        different gender, ethnicity, or even race (such as an elf or a dwarf).
-        Once the spell is cast the mage no longer needs to be within range to
-        maintain it.</p>
-
-        <p>Found in <strong>Core Rules</strong></p>
-      good: The Duration is increased to the rest of the scene
-      outstanding: >-
-        The disguise mimics the target’s voice as well. It doesn’t grant the
-        target new languages, however!
-      isAttack: 'false'
-      damage: null
-      ap: 0
-      applySize: 'false'
-      applyArmor: 'false'
-    ownership:
-      default: 0
-      A9LyAqagoJJU3gDH: 3
-      Pr8rQ7apcvpAcdr7: 3
-    _stats:
-      systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '13.351'
-      createdTime: 1689445611748
-      modifiedTime: 1689445642611
-      lastModifiedBy: Pr8rQ7apcvpAcdr7
-      compendiumSource: Compendium.te001-core-rulebook.Items.2kc6JsOu5pXB1c88
-      duplicateSource: null
-      exportSource: null
-    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.qmWxv0zsqLPJ3UZs'
-  - _id: PPWkTULAS4jcj0fK
-    name: Lightning
-    type: spell
-    img: systems/torgeternity/images/icons/spell-icon.webp
-    effects: []
-    folder: null
-    sort: 0
-    flags:
-      core: {}
-    system:
-      axiom: 14
-      skill: conjuration
-      skilllevel: 14
-      castingtime: 1 action
-      dnType: ''
-      dn: targetDodge
-      targetDefense: ''
-      modifier: null
-      range: 100 meters
-      duration: Instant
-      description: >-
-        <p>This powerful attack spell calls forth a bolt of lightning strong
-        enough to harm even the great dragons of Aysle. The damage of the bolt
-        is 16 and it ignores 4 points of armor. This spell may not use the
-        @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#multi-targeting]{Multi-Target}
-        option.</p>
-
-        <p>&nbsp;</p>
-
-        <p>Found in <strong>Core Rules</strong></p>
-      good: Damage +1 BD
-      outstanding: Damage +2 BD
-      isAttack: 'true'
-      damage: 16
-      ap: 4
-      applySize: 'true'
-      applyArmor: 'true'
-    ownership:
-      default: 0
-      A9LyAqagoJJU3gDH: 3
-      Pr8rQ7apcvpAcdr7: 3
-    _stats:
-      systemId: torgeternity
-      systemVersion: 2.9.3
-      coreVersion: '13.351'
-      createdTime: 1689445617580
-      modifiedTime: 1689445636555
-      lastModifiedBy: Pr8rQ7apcvpAcdr7
-      compendiumSource: Compendium.te001-core-rulebook.Items.UaCvLDR3xxl06513
-      duplicateSource: null
-      exportSource: null
-    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.PPWkTULAS4jcj0fK'
   - _id: HS6JkzBn7eUaOh6Y
     name: Mage Dark
     type: spell
     img: systems/torgeternity/images/icons/spell-icon.webp
     effects: []
     folder: null
-    sort: 0
+    sort: 100000
     flags:
       core: {}
     system:
@@ -419,10 +245,10 @@ items:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       createdTime: 1689445622851
-      modifiedTime: 1689445629977
-      lastModifiedBy: Pr8rQ7apcvpAcdr7
+      modifiedTime: 1792929809992
+      lastModifiedBy: sRxHysQtWL0uR5mA
       compendiumSource: Compendium.te001-core-rulebook.Items.h8NdZ10A8WTozHPS
       duplicateSource: null
       exportSource: null
@@ -543,7 +369,7 @@ items:
     _stats:
       systemId: torgeternity
       systemVersion: 2.9.3
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       createdTime: 1689445694947
       modifiedTime: 1689445701588
       lastModifiedBy: Pr8rQ7apcvpAcdr7
@@ -551,6 +377,116 @@ items:
       duplicateSource: null
       exportSource: null
     _key: '!actors.items!SIIAZ1ZFvOSGEiUG.UY32NRuHsCtXL1c0'
+  - _id: 9sfbFNMcrTzW1PFG
+    name: Haste
+    type: spell
+    img: systems/torgeternity/images/icons/spell-icon.webp
+    effects: []
+    flags:
+      core: {}
+    system:
+      ap: 0
+      applyArmor: false
+      applySize: false
+      castingtime: 1 action
+      damage: null
+      description: "<p><em>Haste</em> increases the ability of the target to maximize his actions, effectively letting him do or concentrate on more things at once. The recipient ignores the first two points of Multi-Action penalties and can perform three simple actions each round instead of two.</p>\n<p>\_</p>\n<p>Found in <strong>Core Rules</strong></p>"
+      dn: standard
+      dnType: ''
+      duration: 3 rounds
+      good: The Duration increases to one minute
+      isAttack: false
+      modifier: null
+      outstanding: >-
+        As Good, plus the recipient ignores the first four points of
+        Multi-Action penalties
+      range: Touch
+      skill: alteration
+      skilllevel: 14
+      targetDefense: ''
+      axioms:
+        magic: 10
+        social: 0
+        spirit: 0
+        tech: 0
+      cosm: none
+      traits: []
+      itemsToBestow: []
+      bestowedBy: null
+      attuned: false
+      requiresConcentration: false
+      standard: ''
+    _stats:
+      systemId: torgeternity
+      systemVersion: 14.7.0
+      coreVersion: '14.369'
+      createdTime: 1792929794860
+      modifiedTime: 1792929794860
+      lastModifiedBy: sRxHysQtWL0uR5mA
+      compendiumSource: Compendium.te001-core-rulebook.Items.Item.9sfbFNMcrTzW1PFG
+      duplicateSource: null
+      exportSource: null
+    ownership:
+      default: 0
+      sRxHysQtWL0uR5mA: 3
+    folder: null
+    sort: 0
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.9sfbFNMcrTzW1PFG'
+  - _id: RXbLsB6NFjT4yn9l
+    name: Fireball
+    type: spell
+    img: systems/torgeternity/images/icons/spell-icon.webp
+    effects: []
+    flags:
+      core: {}
+    system:
+      ap: 0
+      applyArmor: true
+      applySize: true
+      castingtime: 1 action
+      damage: 14
+      description: "<p><em>Fireball</em> conjures a sphere of white-hot magical flame. The caster shapes and controls the fireball, then hurls it at his target where it explodes in a Medium Blast Radius for 14 @UUID[Compendium.te001-core-rulebook.rules.pwneQ55M0nnDH0Us.JournalEntryPage.EhKa65cpHvodUl2L#fire]{Fire damage}.</p>\n<p>There is no penalty for Range, and this is a single ball of fire, no Multi-Targeting is available.</p>\n<p>\_</p>\n<p>Found in <strong>Core Rules</strong></p>"
+      dn: targetDodge
+      dnType: ''
+      duration: Instant
+      good: Damage +1 BD
+      isAttack: true
+      modifier: null
+      outstanding: Damage +2 BD
+      range: 50 meters
+      skill: conjuration
+      skilllevel: 14
+      targetDefense: ''
+      traits:
+        - fireDamage
+        - mediumBlast
+      axioms:
+        magic: 14
+        social: 0
+        spirit: 0
+        tech: 0
+      cosm: none
+      itemsToBestow: []
+      bestowedBy: null
+      attuned: false
+      requiresConcentration: false
+      standard: ''
+    _stats:
+      systemId: torgeternity
+      systemVersion: 14.7.0
+      coreVersion: '14.369'
+      createdTime: 1792929808105
+      modifiedTime: 1792929812640
+      lastModifiedBy: sRxHysQtWL0uR5mA
+      compendiumSource: Compendium.te001-core-rulebook.Items.Item.RXbLsB6NFjT4yn9l
+      duplicateSource: null
+      exportSource: null
+    ownership:
+      default: 0
+      sRxHysQtWL0uR5mA: 3
+    folder: null
+    sort: 50000
+    _key: '!actors.items!SIIAZ1ZFvOSGEiUG.RXbLsB6NFjT4yn9l'
 effects: []
 system:
   attributes:
@@ -698,7 +634,7 @@ system:
       isThreatSkill: false
       unskilledUse: 1
       value: 16
-      defenseOnly: 'true'
+      defenseOnly: false
     kinesis:
       adds: ''
       baseAttribute: spirit
@@ -739,7 +675,7 @@ system:
       isThreatSkill: false
       unskilledUse: 1
       value: 0
-      defenseOnly: 'true'
+      defenseOnly: false
     medicine:
       adds: ''
       baseAttribute: mind
@@ -844,7 +780,7 @@ system:
       isThreatSkill: false
       unskilledUse: 1
       value: 0
-      defenseOnly: 'true'
+      defenseOnly: false
     telepathy:
       adds: ''
       baseAttribute: charisma
@@ -869,7 +805,7 @@ system:
       isThreatSkill: false
       unskilledUse: 1
       value: 0
-      defenseOnly: 'true'
+      defenseOnly: false
     unarmedCombat:
       adds: '2'
       baseAttribute: dexterity
@@ -928,7 +864,7 @@ system:
     possibilitypotential: '3'
     sizeBonus: normal
     clearance: alpha
-  editstate: none
+  editstate: false
   possibilities: null
 ownership:
   default: 0
@@ -976,9 +912,6 @@ prototypeToken:
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
-    offsetX: 0
-    offsetY: 0
-    rotation: 0
     anchorX: 0.5
     anchorY: 0.5
     fit: contain
@@ -994,7 +927,7 @@ prototypeToken:
     saturation: 0
     contrast: 0
   alpha: 1
-  detectionModes: []
+  detectionModes: {}
   appendNumber: false
   prependAdjective: false
   occludable:
@@ -1014,14 +947,15 @@ prototypeToken:
     src: null
     disposition: false
   movementAction: null
+  depth: 1
 folder: null
 _stats:
   systemId: torgeternity
-  systemVersion: 3.6.0
-  coreVersion: '13.351'
+  systemVersion: 14.7.0
+  coreVersion: '14.369'
   createdTime: 1689444985823
-  modifiedTime: 1711012966925
-  lastModifiedBy: CtisFurQNe9h7ABb
+  modifiedTime: 1792929933407
+  lastModifiedBy: sRxHysQtWL0uR5mA
   compendiumSource: null
   duplicateSource: null
   exportSource: null

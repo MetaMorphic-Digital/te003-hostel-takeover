@@ -380,9 +380,6 @@ prototypeToken:
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
-    offsetX: 0
-    offsetY: 0
-    rotation: 0
     anchorX: 0.5
     anchorY: 0.5
     fit: contain
@@ -398,7 +395,7 @@ prototypeToken:
     saturation: 0
     contrast: 0
   alpha: 1
-  detectionModes: []
+  detectionModes: {}
   appendNumber: false
   prependAdjective: false
   occludable:
@@ -418,11 +415,12 @@ prototypeToken:
     src: null
     disposition: false
   movementAction: null
+  depth: 1
 folder: null
 _stats:
   systemId: torgeternity
   systemVersion: 2.9.3
-  coreVersion: '13.351'
+  coreVersion: '14.369'
   createdTime: null
   modifiedTime: 1689443527230
   lastModifiedBy: Pr8rQ7apcvpAcdr7

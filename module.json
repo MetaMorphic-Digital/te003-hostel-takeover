@@ -3,14 +3,21 @@
 	"title": "Torg Eternity - Hostel Takeover Adventure Module",
 	"description": "Hostel Takeover, a Torg Eternity One-Act Adventure",
         "authors": [
+          {
+            "name": "Farling",
+            "url": "https://github.com/farling42",
+            "discord": "farling",
+            "ko-fi": "farling",
+            "patreon": "amusingtime"
+          },
            {
            "name": "VTT Southwest, LLC"
            }
          ],
 	"version": "2.1.0",
         "compatibility": {
-          "minimum": 13.351,
-          "verified": 13.351
+          "minimum": 14,
+          "verified": 14.369
         },
   "relationships": {
     "systems": [{

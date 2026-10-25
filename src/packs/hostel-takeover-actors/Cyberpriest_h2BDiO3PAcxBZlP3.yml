@@ -28,10 +28,12 @@ items:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       systemId: torgeternity
       systemVersion: 13.15.0
       lastModifiedBy: null
+      createdTime: null
+      modifiedTime: null
     _key: '!actors.items!h2BDiO3PAcxBZlP3.ltvvc2fxveybs36q'
   - _id: NLLgUpWe9ifo0vgV
     name: Cyberware Implants
@@ -139,10 +141,12 @@ items:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       systemId: torgeternity
       systemVersion: 13.15.0
       lastModifiedBy: null
+      createdTime: null
+      modifiedTime: null
     _key: '!actors.items!h2BDiO3PAcxBZlP3.NLLgUpWe9ifo0vgV'
   - _id: 9WoZS9SePkiDsZhx
     name: Miracles
@@ -250,10 +254,12 @@ items:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       systemId: torgeternity
       systemVersion: 13.15.0
       lastModifiedBy: null
+      createdTime: null
+      modifiedTime: null
     _key: '!actors.items!h2BDiO3PAcxBZlP3.9WoZS9SePkiDsZhx'
   - _id: 1ftMpIes6ylMt4Sb
     name: Trigon Body Plating
@@ -262,20 +268,12 @@ items:
     effects:
       - _id: pZH4SwG8NDIRYIfv
         flags: {}
-        changes:
-          - key: defenses.armor
-            mode: 2
-            value: '2'
-            priority: null
         disabled: false
         duration:
-          startTime: 0
-          seconds: null
-          combat: null
-          rounds: null
-          turns: null
-          startRound: 3
-          startTurn: 0
+          value: null
+          units: seconds
+          expiry: null
+          expired: false
         origin: Item.AmzAKdW1aT5px35s
         tint: '#ffffff'
         transfer: true
@@ -286,17 +284,33 @@ items:
           compendiumSource: null
           duplicateSource: null
           exportSource: null
-          coreVersion: '13.351'
+          coreVersion: '14.369'
           systemId: torgeternity
           systemVersion: 13.15.0
           lastModifiedBy: null
+          createdTime: null
+          modifiedTime: null
         img: icons/svg/aura.svg
         type: base
         system:
           transferOnAttack: false
           applyIfAttackTrait: []
           applyIfDefendTrait: []
+          changes:
+            - key: defenses.armor
+              value: 2
+              priority: null
+              type: add
         sort: 0
+        start:
+          combat: null
+          round: 3
+          time: 0
+          turn: 0
+          combatant: null
+          initiative: null
+        showIcon: 1
+        folder: null
         _key: >-
           !actors.items.effects!h2BDiO3PAcxBZlP3.1ftMpIes6ylMt4Sb.pZH4SwG8NDIRYIfv
     folder: RAxVzK08QIZxH5Xs
@@ -327,10 +341,12 @@ items:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       systemId: torgeternity
       systemVersion: 13.15.0
       lastModifiedBy: null
+      createdTime: null
+      modifiedTime: null
     _key: '!actors.items!h2BDiO3PAcxBZlP3.1ftMpIes6ylMt4Sb'
   - _id: mYbbhkncMkySx4LQ
     name: Hellfire
@@ -377,10 +393,12 @@ items:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       systemId: torgeternity
       systemVersion: 13.15.0
       lastModifiedBy: null
+      createdTime: null
+      modifiedTime: null
     _key: '!actors.items!h2BDiO3PAcxBZlP3.mYbbhkncMkySx4LQ'
   - _id: zxViTzENAF82o7hI
     name: Bless
@@ -397,7 +415,7 @@ items:
       applySize: false
       castingtime: 1 action
       damage: null
-      description: "<p><em>Bless</em> surrounds and infuses the caster and his allies with spiritual energy that boosts their physical or mental abilities. The priest chooses any one attribute and calls on his deity to enhance it. <q>May the Lord give us the might of Daniel in the Lion’s Den!</q> increases <em>Strength</em>, for example. Or <q>May Vishnu grant you clarity!</q> might enhance <em>Mind</em>.</p><p>If successful, every ally in range adds +1 to that attribute. Increasing <em>Strength</em> or <em>Spirit</em> does not increase the derived statistics of Toughness and Shock, however.</p><p>@Buff[charisma=+1|duration=3]{Bless: +1 Cha}</p><p>@Buff[dexterity=+1|duration=3]{Bless: +1 Dex}</p><p>@Buff[mind=+1|duration=3]{Bless: +1 Mind}</p><p>@Buff[spirit=+1|duration=3]{Bless: +1 Spirit}</p><p>@Buff[strength=+1|duration=3]{Bless: +1 Str}</p><p>\_</p><p>Found in <strong>Core Rules</strong></p>"
+      description: "<p><em>Bless</em> surrounds and infuses the caster and his allies with spiritual energy that boosts their physical or mental abilities. The priest chooses any one attribute and calls on his deity to enhance it. <q>May the Lord give us the might of Daniel in the Lion’s Den!</q> increases <em>Strength</em>, for example. Or <q>May Vishnu grant you clarity!</q> might enhance <em>Mind</em>.</p><p>If successful, every ally in range adds +1 to that attribute. Increasing <em>Strength</em> or <em>Spirit</em> does not increase the derived statistics of Toughness and Shock, however.</p><p>\_</p><p>Found in <strong>Core Rules</strong></p>"
       dn: standard
       dnType: ''
       duration: 3 rounds
@@ -429,6 +447,12 @@ items:
       cosm: none
       traits: []
       requiresConcentration: false
+      standard: >-
+        <p>@Buff[charisma=+1|duration=3]{Bless: +1
+        Cha}</p><p>@Buff[dexterity=+1|duration=3]{Bless: +1
+        Dex}</p><p>@Buff[mind=+1|duration=3]{Bless: +1
+        Mind}</p><p>@Buff[spirit=+1|duration=3]{Bless: +1
+        Spirit}</p><p>@Buff[strength=+1|duration=3]{Bless: +1 Str}</p>
     ownership:
       default: 0
       A9LyAqagoJJU3gDH: 3
@@ -438,10 +462,12 @@ items:
       compendiumSource: null
       duplicateSource: null
       exportSource: null
-      coreVersion: '13.351'
+      coreVersion: '14.369'
       systemId: torgeternity
-      systemVersion: 13.15.0
-      lastModifiedBy: null
+      systemVersion: 14.7.0
+      lastModifiedBy: sRxHysQtWL0uR5mA
+      createdTime: 1792929360493
+      modifiedTime: 1792929362978
     _key: '!actors.items!h2BDiO3PAcxBZlP3.zxViTzENAF82o7hI'
 effects: []
 folder: null
@@ -849,9 +875,6 @@ prototypeToken:
     tint: '#ffffff'
     scaleX: 1
     scaleY: 1
-    offsetX: 0
-    offsetY: 0
-    rotation: 0
     anchorX: 0.5
     anchorY: 0.5
     fit: contain
@@ -866,7 +889,7 @@ prototypeToken:
     attenuation: 0.1
     saturation: 0
     contrast: 0
-  detectionModes: []
+  detectionModes: {}
   appendNumber: true
   prependAdjective: false
   occludable:
@@ -886,11 +909,12 @@ prototypeToken:
     src: null
     disposition: false
   movementAction: null
+  depth: 1
 _stats:
   compendiumSource: null
   duplicateSource: null
   exportSource: null
-  coreVersion: '13.351'
+  coreVersion: '14.369'
   systemId: torgeternity
   systemVersion: 13.15.0
   createdTime: 1768391117253

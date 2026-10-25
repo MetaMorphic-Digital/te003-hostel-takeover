@@ -1,124 +1,98 @@
 {
-	"id": "te003-hostel-takeover",
-	"title": "Torg Eternity - Hostel Takeover Adventure Module",
-	"description": "Hostel Takeover, a Torg Eternity One-Act Adventure",
-        "authors": [
-          {
-            "name": "Farling",
-            "url": "https://github.com/farling42",
-            "discord": "farling",
-            "ko-fi": "farling",
-            "patreon": "amusingtime"
-          },
-           {
-           "name": "VTT Southwest, LLC"
-           }
-         ],
-	"version": "2.1.0",
-        "compatibility": {
-          "minimum": 14,
-          "verified": 14.369
-        },
-  "relationships": {
-    "systems": [{
-      "id": "torgeternity",
-      "type": "system"
-    }]
+  "id": "te003-hostel-takeover",
+  "title": "Torg Eternity - Hostel Takeover Adventure",
+  "description": "<p>Hostel Takeover, a Torg Eternity One-Act Adventure</p>",
+  "authors": [
+    {
+      "name": "Farling",
+      "url": "https://github.com/farling42",
+      "discord": "farling",
+      "ko-fi": "farling",
+      "patreon": "amusingtime",
+      "flags": {}
+    },
+    {
+      "name": "VTT Southwest, LLC",
+      "flags": {}
+    }
+  ],
+  "version": "2.1.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.369"
   },
-    "esmodules": [
-      "te003-hostel-takeover.js"
-    ],
-  "media":[{
-    "type": "setup",
-    "url": "modules/te003-hostel-takeover/images/thumbs/setup.webp",
-    "thumbnail": "modules/te003-hostel-takeover/images/thumbs/setup-thumb.webp"
-  }],
-	"url": "https://github.com/gmmatt/te003-hostel-takeover",
-	"manifest": "https://github.com/gmmatt/te003-hostel-takeover/releases/latest/download/module.json",
-	"download": "https://github.com/gmmatt/te003-hostel-takeover/releases/download/v2.0.1/te003-hostel-takeover.zip",
-	"packs": [
-    		{
-      		"name": "hostel-takeover-actors",
-      		"label": "Hostel Takeover: Actors (en)",
-      		"path": "packs/hostel-takeover-actors.db",
-      		"type": "Actor",
-                "system": "torgeternity",
-                "private": true,
-		"ownership": {
-			"ASSISTANT": "OWNER"
-		},
-                "flags": {}
-		},
-    		{
-      		"name": "hostel-takeover-handouts",
-      		"label": "Hostel Takeover: Handouts (en)",
-      		"path": "packs/hostel-takeover-handouts.db",
-      		"type": "JournalEntry",
-                "system": "torgeternity",
-                "private": true,
-		"ownership": {
-			"ASSISTANT": "OWNER"
-		},
-                "flags": {}
-		},
-   		{
-      		"name": "hostel-takeover-journals",
-      		"label": "Hostel Takeover: Adventure (en)",
-      		"path": "packs/hostel-takeover-journals.db",
-      		"type": "JournalEntry",
-                "system": "torgeternity",
-                "private": true,
-		"ownership": {
-			"ASSISTANT": "OWNER"
-		},
-                "flags": {}
-		},
-   		{
-      		"name": "hostel-takeover-scenes",
-      		"label": "Hostel Takeover: Scenes (en)",
-      		"path": "packs/hostel-takeover-scenes.db",
-      		"type": "Scene",
-                "system": "torgeternity",
-                "private": true,
-		"ownership": {
-			"ASSISTANT": "OWNER"
-		},
-                "flags": {}
-		}
-		],
-  "packFolders": [{
-        "name": "TORG Eternity - Hostel Takeover Adventure Module",
-        "sorting": "m",
-        "color": "#415a9b",
-        "folders": [{
+  "relationships": {
+    "systems": [
+      {
+        "id": "torgeternity",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "esmodules": [
+    "te003-hostel-takeover.js"
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/te003-hostel-takeover/images/thumbs/setup.webp",
+      "thumbnail": "modules/te003-hostel-takeover/images/thumbs/setup-thumb.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/MetaMorphic-Digital/te003-hostel-takeover",
+  "manifest": "https://github.com/MetaMorphic-Digital/te003-hostel-takeover/releases/latest/download/module.json",
+  "download": "https://github.com/MetaMorphic-Digital/te003-hostel-takeover/releases/download/v2.0.1/te003-hostel-takeover.zip",
+  "packs": [
+    {
+      "name": "hostel-takeover-adventure",
+      "label": "Hostel Takeover: Adventures (en)",
+      "path": "packs/hostel-takeover-adventure",
+      "type": "Adventure",
+      "system": "torgeternity",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "TORG Eternity - Hostel Takeover Adventure",
+      "sorting": "m",
+      "color": "#415a9b",
+      "folders": [
+        {
           "name": "English",
           "sorting": "m",
           "color": "#960000",
-          "folders": [{
-            "name": "Journals",
-            "sorting": "m",
-            "color": "#415a9b",
-            "packs": [
-              "hostel-takeover-journals",
-              "hostel-takeover-handouts"
-            ]
-          },
-          {
-            "name": "Actors",
-            "sorting": "m",
-            "color": "#415a9b",
-            "packs": [
-              "hostel-takeover-actors"
-            ]
-          },
-          {
-            "name": "Scenes",
-            "sorting": "m",
-            "color": "#415a9b",
-            "packs": [
-              "hostel-takeover-scenes"
-            ]
-          }]
-        }]
-      }]
+          "folders": [
+            {
+              "name": "Adventures",
+              "sorting": "m",
+              "color": "#415a9b",
+              "packs": [
+                "hostel-takeover-adventure"
+              ],
+              "folders": []
+            }
+          ],
+          "packs": []
+        }
+      ],
+      "packs": []
+    }
+  ],
+  "quickstart": {
+    "postImport": true,
+    "world": {
+      "cover": "modules/te003-hostel-takeover/images/cover.webp",
+      "background": null
+    },
+    "adventures": {}
+  },
+  "flags": {}
 }

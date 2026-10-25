@@ -572,7 +572,7 @@ actors:
               expiry: null
               expired: false
             disabled: false
-            img: icons/svg/aura.svg
+            img: systems/torgeternity/images/icons/torgeternity-icon.webp
             _id: qLBYjdTf7xDe57Kv
             type: base
             system:
@@ -1639,7 +1639,7 @@ actors:
               modifiedTime: null
               duplicateSource: null
               exportSource: null
-            img: icons/svg/aura.svg
+            img: systems/torgeternity/images/icons/cyberware-icon.webp
             type: base
             system:
               applyIfAttackTrait: []
@@ -3760,7 +3760,7 @@ journal:
     sort: 200000
 scenes:
   - name: Hostel First Floor
-    navigation: true
+    navigation: false
     navName: First Floor
     thumb: >-
       modules/te003-hostel-takeover/assets/scenes/hostel-takeover-scenes-t1EQsODiZrpmmQKP-thumb.webp
@@ -9118,8 +9118,8 @@ _stats:
   systemId: torgeternity
   systemVersion: 14.7.0
   createdTime: 1792945801582
-  modifiedTime: 1792948501393
-  lastModifiedBy: YYipWhC5iD0UYQNp
+  modifiedTime: 1792949339992
+  lastModifiedBy: tW91crH01mqTwCkt
   compendiumSource: null
   duplicateSource: null
   exportSource: null

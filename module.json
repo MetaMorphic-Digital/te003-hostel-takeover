@@ -71,18 +71,7 @@
           "name": "English",
           "sorting": "m",
           "color": "#960000",
-          "folders": [
-            {
-              "name": "Adventures",
-              "sorting": "m",
-              "color": "#415a9b",
-              "packs": [
-                "hostel-takeover-adventure"
-              ],
-              "folders": []
-            }
-          ],
-          "packs": []
+          "packs": ["hostel-takeover-adventure"]
         }
       ],
       "packs": []

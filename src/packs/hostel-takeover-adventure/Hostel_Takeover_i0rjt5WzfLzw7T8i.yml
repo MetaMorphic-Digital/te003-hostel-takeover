@@ -43,7 +43,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -85,7 +85,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -540,7 +540,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -610,7 +610,7 @@ actors:
               compendiumSource: null
               coreVersion: '14.369'
               systemId: torgeternity
-              systemVersion: 14.7.0
+              systemVersion: 14.7.4
               createdTime: null
               modifiedTime: null
               lastModifiedBy: null
@@ -636,7 +636,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -672,7 +672,7 @@ actors:
           4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -711,7 +711,7 @@ actors:
           4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -748,7 +748,7 @@ actors:
           4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -797,7 +797,7 @@ actors:
           4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -852,7 +852,7 @@ actors:
           Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -896,7 +896,7 @@ actors:
           Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -945,7 +945,7 @@ actors:
           standard: ''
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -999,7 +999,7 @@ actors:
           standard: ''
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -1473,7 +1473,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -1518,7 +1518,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.369'
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1561,7 +1561,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.369'
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1604,7 +1604,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.369'
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1633,7 +1633,7 @@ actors:
               compendiumSource: null
               coreVersion: '14.369'
               systemId: torgeternity
-              systemVersion: 14.7.0
+              systemVersion: 14.7.4
               lastModifiedBy: null
               createdTime: null
               modifiedTime: null
@@ -1711,7 +1711,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.369'
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1766,7 +1766,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.369'
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1837,7 +1837,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.369'
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -2287,7 +2287,7 @@ actors:
         Compendium.te003-hostel-takeover.hostel-takeover-actors.Actor.h2BDiO3PAcxBZlP3
       coreVersion: '14.369'
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -2345,7 +2345,7 @@ actors:
           Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -2403,7 +2403,7 @@ actors:
           Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -2452,7 +2452,7 @@ actors:
           GJLkrWXIPZRbEU79: 3
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -2909,7 +2909,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -3007,11 +3007,11 @@ actors:
           defenseOnly: false
         dodge:
           baseAttribute: dexterity
-          adds: 0
+          adds: 1
           isFav: false
           groupName: other
           unskilledUse: true
-          isThreatSkill: false
+          isThreatSkill: true
           defenseOnly: false
         energyWeapons:
           baseAttribute: dexterity
@@ -3039,11 +3039,11 @@ actors:
           defenseOnly: false
         find:
           baseAttribute: mind
-          adds: 0
+          adds: 1
           isFav: false
           groupName: other
           unskilledUse: true
-          isThreatSkill: false
+          isThreatSkill: true
           defenseOnly: false
         fireCombat:
           baseAttribute: dexterity
@@ -3143,11 +3143,11 @@ actors:
           defenseOnly: false
         persuasion:
           baseAttribute: charisma
-          adds: 0
+          adds: 1
           isFav: false
           groupName: other
           unskilledUse: true
-          isThreatSkill: false
+          isThreatSkill: true
           defenseOnly: false
         precognition:
           baseAttribute: mind
@@ -3159,11 +3159,11 @@ actors:
           defenseOnly: false
         profession:
           baseAttribute: mind
-          adds: 0
+          adds: 1
           isFav: false
           groupName: other
           unskilledUse: true
-          isThreatSkill: false
+          isThreatSkill: true
           defenseOnly: false
         reality:
           baseAttribute: spirit
@@ -3215,12 +3215,12 @@ actors:
           defenseOnly: false
         taunt:
           baseAttribute: charisma
-          adds: 0
+          adds: 1
           isFav: false
           groupName: interaction
           unskilledUse: true
           defenseOnly: false
-          isThreatSkill: false
+          isThreatSkill: true
         telepathy:
           baseAttribute: charisma
           adds: 0
@@ -3247,11 +3247,11 @@ actors:
           isThreatSkill: false
         unarmedCombat:
           baseAttribute: dexterity
-          adds: 0
+          adds: 1
           isFav: false
           groupName: combat
           unskilledUse: true
-          isThreatSkill: false
+          isThreatSkill: true
           defenseOnly: false
         waterVehicles:
           baseAttribute: dexterity
@@ -3289,7 +3289,7 @@ actors:
         sizeBonus: normal
         clearance: alpha
         possibilityPotential: Never
-      editstate: false
+      editstate: true
     ownership:
       default: 0
     prototypeToken:
@@ -3375,7 +3375,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -3414,7 +3414,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3428,7 +3428,7 @@ journal:
       core: {}
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -3468,7 +3468,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3501,7 +3501,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3534,7 +3534,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3566,7 +3566,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3597,7 +3597,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3628,7 +3628,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3659,7 +3659,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3694,7 +3694,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3729,7 +3729,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.0
+          systemVersion: 14.7.4
           coreVersion: '14.369'
           createdTime: null
           modifiedTime: null
@@ -3743,7 +3743,7 @@ journal:
       core: {}
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -6137,7 +6137,7 @@ scenes:
     journalEntryPage: null
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -6199,7 +6199,7 @@ scenes:
             _stats:
               coreVersion: '14.369'
               systemId: torgeternity
-              systemVersion: 14.7.0
+              systemVersion: 14.7.4
               createdTime: null
               modifiedTime: null
               lastModifiedBy: null
@@ -6289,7 +6289,7 @@ scenes:
   - name: Hostel Second Floor
     navigation: true
     navName: ''
-    thumb: worlds/torg-hostel/assets/scenes/thumb-IRZ2PcGfuPzQiJhYGQi8Ag.webp
+    thumb: worlds/torg-hostel-test/assets/scenes/thumb-IRZ2PcGfuPzQiJhYGQi8Ag.webp
     width: 2625
     height: 1725
     padding: 0.25
@@ -8899,7 +8899,7 @@ scenes:
     journalEntryPage: null
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       coreVersion: '14.369'
       createdTime: null
       modifiedTime: null
@@ -8961,7 +8961,7 @@ scenes:
             _stats:
               coreVersion: '14.369'
               systemId: torgeternity
-              systemVersion: 14.7.0
+              systemVersion: 14.7.4
               createdTime: null
               modifiedTime: null
               lastModifiedBy: null
@@ -9065,7 +9065,7 @@ folders:
     _stats:
       coreVersion: '14.369'
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -9084,7 +9084,7 @@ folders:
     _stats:
       coreVersion: '14.369'
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -9103,7 +9103,7 @@ folders:
     _stats:
       coreVersion: '14.369'
       systemId: torgeternity
-      systemVersion: 14.7.0
+      systemVersion: 14.7.4
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -9118,8 +9118,8 @@ _stats:
   systemId: torgeternity
   systemVersion: 14.7.0
   createdTime: 1792945801582
-  modifiedTime: 1792949339992
-  lastModifiedBy: tW91crH01mqTwCkt
+  modifiedTime: 1793372694905
+  lastModifiedBy: qdaPDI39gMKjulCm
   compendiumSource: null
   duplicateSource: null
   exportSource: null

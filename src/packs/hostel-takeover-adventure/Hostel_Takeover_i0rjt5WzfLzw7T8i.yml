@@ -6289,7 +6289,8 @@ scenes:
   - name: Hostel Second Floor
     navigation: true
     navName: ''
-    thumb: worlds/torg-hostel-test/assets/scenes/thumb-IRZ2PcGfuPzQiJhYGQi8Ag.webp
+    thumb: >-
+      modules/te003-hostel-takeover/assets/scenes/hostel-takeover-scenes-JGtnt1IM50zre3wR-thumb.webp
     width: 2625
     height: 1725
     padding: 0.25

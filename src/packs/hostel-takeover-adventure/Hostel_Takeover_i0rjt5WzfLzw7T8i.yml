@@ -3760,7 +3760,7 @@ journal:
     sort: 200000
 scenes:
   - name: Hostel First Floor
-    navigation: false
+    navigation: true
     navName: First Floor
     thumb: >-
       modules/te003-hostel-takeover/assets/scenes/hostel-takeover-scenes-t1EQsODiZrpmmQKP-thumb.webp
@@ -9119,8 +9119,8 @@ _stats:
   systemId: torgeternity
   systemVersion: 14.7.0
   createdTime: 1792945801582
-  modifiedTime: 1793372694905
-  lastModifiedBy: qdaPDI39gMKjulCm
+  modifiedTime: 1793444421345
+  lastModifiedBy: lTikzZMmlfBLGRRJ
   compendiumSource: null
   duplicateSource: null
   exportSource: null

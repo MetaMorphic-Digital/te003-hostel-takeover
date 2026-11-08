@@ -44,7 +44,7 @@ actors:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -86,7 +86,7 @@ actors:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -541,7 +541,7 @@ actors:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -608,7 +608,7 @@ actors:
             flags: {}
             _stats:
               compendiumSource: null
-              coreVersion: '14.369'
+              coreVersion: '14.370'
               systemId: torgeternity
               systemVersion: 14.7.4
               createdTime: null
@@ -637,7 +637,7 @@ actors:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -669,11 +669,10 @@ actors:
         folder: null
         ownership:
           default: 0
-          4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -708,11 +707,10 @@ actors:
         folder: null
         ownership:
           default: 0
-          4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -745,11 +743,10 @@ actors:
         folder: null
         ownership:
           default: 0
-          4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -793,12 +790,10 @@ actors:
           attuned: false
         ownership:
           default: 0
-          ZuS1Anc9ORZov40T: 3
-          4kr6bmxq7tmWuB59: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -848,12 +843,10 @@ actors:
           standard: ''
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -892,12 +885,10 @@ actors:
           secondaryAxiom: none
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -946,7 +937,7 @@ actors:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -955,7 +946,6 @@ actors:
           exportSource: null
         ownership:
           default: 0
-          sRxHysQtWL0uR5mA: 3
         folder: null
         sort: 0
       - _id: RXbLsB6NFjT4yn9l
@@ -1000,7 +990,7 @@ actors:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -1009,7 +999,6 @@ actors:
           exportSource: null
         ownership:
           default: 0
-          sRxHysQtWL0uR5mA: 3
         folder: null
         sort: 50000
     effects: []
@@ -1474,7 +1463,7 @@ actors:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -1516,7 +1505,7 @@ actors:
           default: 0
         _stats:
           compendiumSource: null
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           systemId: torgeternity
           systemVersion: 14.7.4
           lastModifiedBy: null
@@ -1554,12 +1543,9 @@ actors:
           attuned: false
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          VAnYow5sWS9EJzo0: 3
-          93AMwcGe6H37rcPA: 3
         _stats:
           compendiumSource: null
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           systemId: torgeternity
           systemVersion: 14.7.4
           lastModifiedBy: null
@@ -1597,12 +1583,9 @@ actors:
           attuned: false
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          VAnYow5sWS9EJzo0: 3
-          93AMwcGe6H37rcPA: 3
         _stats:
           compendiumSource: null
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           systemId: torgeternity
           systemVersion: 14.7.4
           lastModifiedBy: null
@@ -1631,7 +1614,7 @@ actors:
             statuses: []
             _stats:
               compendiumSource: null
-              coreVersion: '14.369'
+              coreVersion: '14.370'
               systemId: torgeternity
               systemVersion: 14.7.4
               lastModifiedBy: null
@@ -1704,12 +1687,9 @@ actors:
             handsHeld: 0
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          VAnYow5sWS9EJzo0: 3
-          W32Zl65V9atvPk8o: 3
         _stats:
           compendiumSource: null
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           systemId: torgeternity
           systemVersion: 14.7.4
           lastModifiedBy: null
@@ -1759,12 +1739,9 @@ actors:
           standard: ''
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          VAnYow5sWS9EJzo0: 3
-          W32Zl65V9atvPk8o: 3
         _stats:
           compendiumSource: null
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           systemId: torgeternity
           systemVersion: 14.7.4
           lastModifiedBy: null
@@ -1830,12 +1807,9 @@ actors:
           attuned: false
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          VAnYow5sWS9EJzo0: 3
-          W32Zl65V9atvPk8o: 3
         _stats:
           compendiumSource: null
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           systemId: torgeternity
           systemVersion: 14.7.4
           lastModifiedBy: null
@@ -2285,7 +2259,7 @@ actors:
     _stats:
       compendiumSource: >-
         Compendium.te003-hostel-takeover.hostel-takeover-actors.Actor.h2BDiO3PAcxBZlP3
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       systemId: torgeternity
       systemVersion: 14.7.4
       createdTime: null
@@ -2341,12 +2315,10 @@ actors:
           minStrength: null
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -2399,12 +2371,10 @@ actors:
           gunnerFixedSkill: 0
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          Pr8rQ7apcvpAcdr7: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -2448,12 +2418,10 @@ actors:
           secondaryAxiom: none
         ownership:
           default: 0
-          A9LyAqagoJJU3gDH: 3
-          GJLkrWXIPZRbEU79: 3
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -2910,7 +2878,7 @@ actors:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -3376,7 +3344,7 @@ actors:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -3415,7 +3383,7 @@ journal:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3429,7 +3397,7 @@ journal:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -3469,7 +3437,7 @@ journal:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3502,7 +3470,7 @@ journal:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3535,7 +3503,7 @@ journal:
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3562,12 +3530,11 @@ journal:
         system: {}
         ownership:
           default: -1
-          Pr8rQ7apcvpAcdr7: 3
         flags: {}
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3593,12 +3560,11 @@ journal:
         system: {}
         ownership:
           default: -1
-          Pr8rQ7apcvpAcdr7: 3
         flags: {}
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3624,12 +3590,11 @@ journal:
         system: {}
         ownership:
           default: -1
-          Pr8rQ7apcvpAcdr7: 3
         flags: {}
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3655,12 +3620,11 @@ journal:
         system: {}
         ownership:
           default: -1
-          Pr8rQ7apcvpAcdr7: 3
         flags: {}
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3689,13 +3653,12 @@ journal:
         sort: -50000
         ownership:
           default: -1
-          Pr8rQ7apcvpAcdr7: 3
         flags:
           core: {}
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3724,13 +3687,12 @@ journal:
         sort: -25000
         ownership:
           default: -1
-          Pr8rQ7apcvpAcdr7: 3
         flags:
           core: {}
         _stats:
           systemId: torgeternity
           systemVersion: 14.7.4
-          coreVersion: '14.369'
+          coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -3744,7 +3706,7 @@ journal:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -6121,8 +6083,8 @@ scenes:
         zone: pure
         isMixed: false
         cosm2: none
-        dimLightThreshold: 0.2
-        darkThreshold: 0.1
+        dimLightThreshold: 0.3
+        darkThreshold: 0.6
         axioms:
           magic: 14
           social: 18
@@ -6138,7 +6100,7 @@ scenes:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -6197,7 +6159,7 @@ scenes:
             disabled: false
             flags: {}
             _stats:
-              coreVersion: '14.369'
+              coreVersion: '14.370'
               systemId: torgeternity
               systemVersion: 14.7.4
               createdTime: null
@@ -6209,7 +6171,6 @@ scenes:
         locked: false
         ownership:
           default: 0
-          tW91crH01mqTwCkt: 3
         flags: {}
         _shapeConstraints: null
     environment:
@@ -6217,7 +6178,7 @@ scenes:
         luminosity: 0
         enabled: true
         darkness:
-          max: 1
+          max: 0.9
           min: 0
         alpha: 0.5
         bright: false
@@ -6276,6 +6237,16 @@ scenes:
           levels: []
         sort: 0
         flags: {}
+        _stats:
+          coreVersion: '14.370'
+          systemId: torgeternity
+          systemVersion: 14.7.4
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
     shiftX: -37
     shiftY: 10
     initialLevel: defaultLevel0000
@@ -8884,8 +8855,8 @@ scenes:
         zone: pure
         isMixed: false
         cosm2: none
-        dimLightThreshold: 0.2
-        darkThreshold: 0.1
+        dimLightThreshold: 0.3
+        darkThreshold: 0.6
         axioms:
           magic: 14
           social: 18
@@ -8901,7 +8872,7 @@ scenes:
     _stats:
       systemId: torgeternity
       systemVersion: 14.7.4
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -8960,7 +8931,7 @@ scenes:
             disabled: false
             flags: {}
             _stats:
-              coreVersion: '14.369'
+              coreVersion: '14.370'
               systemId: torgeternity
               systemVersion: 14.7.4
               createdTime: null
@@ -8972,7 +8943,6 @@ scenes:
         locked: false
         ownership:
           default: 0
-          tW91crH01mqTwCkt: 3
         flags: {}
         _shapeConstraints: null
     environment:
@@ -8980,7 +8950,7 @@ scenes:
         luminosity: 0
         enabled: true
         darkness:
-          max: 1
+          max: 0.9
           min: 0
         alpha: 0.5
         bright: false
@@ -8989,7 +8959,7 @@ scenes:
         saturation: 0
         contrast: 0
         shadows: 0
-      darknessLevel: 0.5
+      darknessLevel: 0.3
       darknessLock: false
       cycle: true
       base:
@@ -9039,6 +9009,16 @@ scenes:
           levels: []
         sort: 0
         flags: {}
+        _stats:
+          coreVersion: '14.370'
+          systemId: torgeternity
+          systemVersion: 14.7.4
+          createdTime: null
+          modifiedTime: null
+          lastModifiedBy: null
+          compendiumSource: null
+          duplicateSource: null
+          exportSource: null
     shiftX: 0
     shiftY: 0
     initialLevel: defaultLevel0000
@@ -9064,7 +9044,7 @@ folders:
     sort: 0
     flags: {}
     _stats:
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       systemId: torgeternity
       systemVersion: 14.7.4
       createdTime: null
@@ -9083,7 +9063,7 @@ folders:
     sort: 0
     flags: {}
     _stats:
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       systemId: torgeternity
       systemVersion: 14.7.4
       createdTime: null
@@ -9102,7 +9082,7 @@ folders:
     sort: 0
     flags: {}
     _stats:
-      coreVersion: '14.369'
+      coreVersion: '14.370'
       systemId: torgeternity
       systemVersion: 14.7.4
       createdTime: null
@@ -9115,11 +9095,11 @@ _id: i0rjt5WzfLzw7T8i
 folder: null
 flags: {}
 _stats:
-  coreVersion: '14.369'
+  coreVersion: '14.370'
   systemId: torgeternity
   systemVersion: 14.7.0
   createdTime: 1792945801582
-  modifiedTime: 1793444421345
+  modifiedTime: 1794098153387
   lastModifiedBy: lTikzZMmlfBLGRRJ
   compendiumSource: null
   duplicateSource: null

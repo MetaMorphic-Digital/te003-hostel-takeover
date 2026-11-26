@@ -458,7 +458,7 @@ actors:
         threatcardbg: modules/te003-hostel-takeover/character-images/Agnes_Petit.Avatar.webp
       editstate: false
     ownership:
-      default: 0
+      default: 1
     prototypeToken:
       flags: {}
       name: Agnes Petit
@@ -1380,7 +1380,7 @@ actors:
         threatcardbg: modules/te003-hostel-takeover/character-images/zapar_agentalus.webp
       editstate: false
     ownership:
-      default: 0
+      default: 1
     prototypeToken:
       flags: {}
       name: Constance
@@ -2179,7 +2179,7 @@ actors:
         threatcardbg: modules/te003-hostel-takeover/character-images/cyberpriest-large.webp
       editstate: false
     ownership:
-      default: 0
+      default: 1
     prototypeToken:
       flags: {}
       name: Cyberpriest
@@ -2798,7 +2798,7 @@ actors:
           modules/te003-hostel-takeover/character-images/church-police-streetbeater-large.webp
       editstate: false
     ownership:
-      default: 0
+      default: 1
     prototypeToken:
       flags: {}
       name: Church Police Streetbeater
@@ -3266,7 +3266,7 @@ actors:
           modules/te003-hostel-takeover/character-images/Pascale_Petit.Avatar.webp
       editstate: true
     ownership:
-      default: 0
+      default: 1
     prototypeToken:
       flags: {}
       name: Pascale Petit
@@ -9106,7 +9106,7 @@ _stats:
   systemId: torgeternity
   systemVersion: 14.7.0
   createdTime: 1792945801582
-  modifiedTime: 1795687154803
+  modifiedTime: 1795687638536
   lastModifiedBy: lTikzZMmlfBLGRRJ
   compendiumSource: null
   duplicateSource: null

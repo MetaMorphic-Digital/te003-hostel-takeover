@@ -43,7 +43,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -85,7 +85,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -455,6 +455,7 @@ actors:
         sizeBonus: normal
         clearance: alpha
         possibilityPotential: Never
+        threatcardbg: modules/te003-hostel-takeover/character-images/Agnes_Petit.Avatar.webp
       editstate: false
     ownership:
       default: 0
@@ -540,7 +541,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -610,7 +611,7 @@ actors:
               compendiumSource: null
               coreVersion: '14.370'
               systemId: torgeternity
-              systemVersion: 14.7.4
+              systemVersion: 14.7.8
               createdTime: null
               modifiedTime: null
               lastModifiedBy: null
@@ -636,7 +637,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -671,7 +672,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -709,7 +710,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -745,7 +746,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -792,7 +793,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -845,7 +846,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -887,7 +888,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -936,7 +937,7 @@ actors:
           standard: ''
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -989,7 +990,7 @@ actors:
           standard: ''
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -1376,6 +1377,7 @@ actors:
         sizeBonus: normal
         clearance: alpha
         possibilityPotential: Never
+        threatcardbg: modules/te003-hostel-takeover/character-images/zapar_agentalus.webp
       editstate: false
     ownership:
       default: 0
@@ -1462,7 +1464,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -1507,7 +1509,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1547,7 +1549,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1587,7 +1589,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1616,7 +1618,7 @@ actors:
               compendiumSource: null
               coreVersion: '14.370'
               systemId: torgeternity
-              systemVersion: 14.7.4
+              systemVersion: 14.7.8
               lastModifiedBy: null
               createdTime: null
               modifiedTime: null
@@ -1691,7 +1693,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1743,7 +1745,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -1811,7 +1813,7 @@ actors:
           compendiumSource: null
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           lastModifiedBy: null
           createdTime: null
           modifiedTime: null
@@ -2174,6 +2176,7 @@ actors:
         sizeBonus: normal
         clearance: alpha
         possibilityPotential: Common (2)
+        threatcardbg: modules/te003-hostel-takeover/character-images/cyberpriest-large.webp
       editstate: false
     ownership:
       default: 0
@@ -2261,7 +2264,7 @@ actors:
         Compendium.te003-hostel-takeover.hostel-takeover-actors.Actor.h2BDiO3PAcxBZlP3
       coreVersion: '14.370'
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -2317,7 +2320,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -2373,7 +2376,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -2420,7 +2423,7 @@ actors:
           default: 0
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -2791,6 +2794,8 @@ actors:
         sizeBonus: normal
         clearance: alpha
         possibilityPotential: Never
+        threatcardbg: >-
+          modules/te003-hostel-takeover/character-images/church-police-streetbeater-large.webp
       editstate: false
     ownership:
       default: 0
@@ -2877,7 +2882,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -3257,6 +3262,8 @@ actors:
         sizeBonus: normal
         clearance: alpha
         possibilityPotential: Never
+        threatcardbg: >-
+          modules/te003-hostel-takeover/character-images/Pascale_Petit.Avatar.webp
       editstate: true
     ownership:
       default: 0
@@ -3343,7 +3350,7 @@ actors:
     folder: GkVXNIV51OtoNWpO
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -3382,7 +3389,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3396,7 +3403,7 @@ journal:
       core: {}
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -3436,7 +3443,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3469,7 +3476,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3502,7 +3509,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3533,7 +3540,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3563,7 +3570,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3593,7 +3600,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3623,7 +3630,7 @@ journal:
         flags: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3657,7 +3664,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3691,7 +3698,7 @@ journal:
           core: {}
         _stats:
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           coreVersion: '14.370'
           createdTime: null
           modifiedTime: null
@@ -3705,7 +3712,7 @@ journal:
       core: {}
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -6099,7 +6106,7 @@ scenes:
     journalEntryPage: null
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -6161,7 +6168,7 @@ scenes:
             _stats:
               coreVersion: '14.370'
               systemId: torgeternity
-              systemVersion: 14.7.4
+              systemVersion: 14.7.8
               createdTime: null
               modifiedTime: null
               lastModifiedBy: null
@@ -6240,7 +6247,7 @@ scenes:
         _stats:
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -8871,7 +8878,7 @@ scenes:
     journalEntryPage: null
     _stats:
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       coreVersion: '14.370'
       createdTime: null
       modifiedTime: null
@@ -8933,7 +8940,7 @@ scenes:
             _stats:
               coreVersion: '14.370'
               systemId: torgeternity
-              systemVersion: 14.7.4
+              systemVersion: 14.7.8
               createdTime: null
               modifiedTime: null
               lastModifiedBy: null
@@ -9012,7 +9019,7 @@ scenes:
         _stats:
           coreVersion: '14.370'
           systemId: torgeternity
-          systemVersion: 14.7.4
+          systemVersion: 14.7.8
           createdTime: null
           modifiedTime: null
           lastModifiedBy: null
@@ -9046,7 +9053,7 @@ folders:
     _stats:
       coreVersion: '14.370'
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -9065,7 +9072,7 @@ folders:
     _stats:
       coreVersion: '14.370'
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -9084,7 +9091,7 @@ folders:
     _stats:
       coreVersion: '14.370'
       systemId: torgeternity
-      systemVersion: 14.7.4
+      systemVersion: 14.7.8
       createdTime: null
       modifiedTime: null
       lastModifiedBy: null
@@ -9099,7 +9106,7 @@ _stats:
   systemId: torgeternity
   systemVersion: 14.7.0
   createdTime: 1792945801582
-  modifiedTime: 1794098153387
+  modifiedTime: 1795687154803
   lastModifiedBy: lTikzZMmlfBLGRRJ
   compendiumSource: null
   duplicateSource: null

@@ -27,7 +27,7 @@
         "id": "torgeternity",
         "type": "system",
         "compatibility": {
-          "minimum": "14.7.4"
+          "minimum": "14.7.8"
         }
       }
     ]
